@@ -1,0 +1,413 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 80194000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User click on MyAccount",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_click_on_my_account()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8772277000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User click on Login",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_click_on_login()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 398739000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User enter username \u0027jondoe8@gmail.com\u0027 and password \u0027abc123\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027jondoe8@gmail.com\u0027",
+                  "offset": 20
+                },
+                {
+                  "val": "\u0027abc123\u0027",
+                  "offset": 53
+                }
+              ],
+              "location": "step.definitions.RetailStepDef.user_enter_username_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 482580000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User click on Login button",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_click_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 49576000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User should be logged in to MyAccount dashboard",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_should_be_logged_in_to_my_account_dashboard()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-07-13T23:15:14.408Z",
+        "before": [
+          {
+            "result": {
+              "duration": 4766566000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step.definitions.Initializer.beforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "Register as an Affiliate user with Cheque Payment Method",
+        "description": "",
+        "id": "retail-page;register-as-an-affiliate-user-with-cheque-payment-method",
+        "after": [
+          {
+            "result": {
+              "duration": 99610000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step.definitions.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()\u003d\u0027Register for an affiliate account\u0027]\"}\n  (Session info: chrome\u003d103.0.5060.114)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027Mazyar.local\u0027, ip: \u00272a00:79e1:abd:8900:6cb1:e2f4:3a38:f555%en0\u0027, os.name: \u0027Mac OS X\u0027, os.arch: \u0027x86_64\u0027, os.version: \u002712.4\u0027, java.version: \u002717.0.2\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: /var/folders/rm/zgls3p_j31b...}, goog:chromeOptions: {debuggerAddress: localhost:64385}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: f873d5ff708b73d643ff29c2f780d6d8\n*** Element info: {Using\u003dxpath, value\u003d//a[text()\u003d\u0027Register for an affiliate account\u0027]}\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\n\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\n\tat jdk.proxy2/jdk.proxy2.$Proxy21.getText(Unknown Source)\n\tat utilities.Util.getText(Util.java:92)\n\tat page.objects.RetailPage.clickOnAffiliateLink(RetailPage.java:130)\n\tat step.definitions.RetailStepDef.user_click_on_link(RetailStepDef.java:57)\n\tat ✽.User click on \u0027Register for an affiliate account\u0027 link(classpath:features/Retail.feature:13)\n",
+              "duration": 30050255000,
+              "status": "failed"
+            },
+            "line": 13,
+            "name": "User click on \u0027Register for an affiliate account\u0027 link",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027Register for an affiliate account\u0027",
+                  "offset": 14
+                }
+              ],
+              "location": "step.definitions.RetailStepDef.user_click_on_link(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 912000,
+              "status": "skipped"
+            },
+            "line": 14,
+            "name": "User fill affiliate form with below information",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_fill_affiliate_form_with_below_information(io.cucumber.datatable.DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "company",
+                  "website",
+                  "taxID",
+                  "paymentMethod"
+                ]
+              },
+              {
+                "cells": [
+                  "maz",
+                  "johndoe.com",
+                  "09123",
+                  "Cheque"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 218000,
+              "status": "skipped"
+            },
+            "line": 17,
+            "name": "User click on Continue button",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_click_on_Continue_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 276000,
+              "status": "skipped"
+            },
+            "line": 18,
+            "name": "User should see a success message",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_should_see_a_success_message()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@retail"
+          },
+          {
+            "name": "@retail"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 110347000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User click on MyAccount",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_click_on_my_account()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5003905000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User click on Login",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_click_on_login()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 276944000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User enter username \u0027jondoe8@gmail.com\u0027 and password \u0027abc123\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027jondoe8@gmail.com\u0027",
+                  "offset": 20
+                },
+                {
+                  "val": "\u0027abc123\u0027",
+                  "offset": 53
+                }
+              ],
+              "location": "step.definitions.RetailStepDef.user_enter_username_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 452222000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User click on Login button",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_click_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 44944000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User should be logged in to MyAccount dashboard",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_should_be_logged_in_to_my_account_dashboard()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-07-13T23:15:59.267Z",
+        "before": [
+          {
+            "result": {
+              "duration": 3923012000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step.definitions.Initializer.beforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 27,
+        "name": "Edit your account information",
+        "description": "",
+        "id": "retail-page;edit-your-account-information",
+        "after": [
+          {
+            "result": {
+              "duration": 162443000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step.definitions.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 701998000,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "User clicks on \u0027Edit your account information\u0027 link",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027Edit your account information\u0027",
+                  "offset": 15
+                }
+              ],
+              "location": "step.definitions.RetailStepDef.user_clicks_on_link(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 420921000,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "User modify below information",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_modify_below_information(io.cucumber.datatable.DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "firstName",
+                  "lastName",
+                  "email",
+                  "phone"
+                ]
+              },
+              {
+                "cells": [
+                  "joel",
+                  "does",
+                  "jondo221456@gmail.com",
+                  "9393939393"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 431512000,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "User click on continue button",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_click_on_continue_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 44402000,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "User should see a message \u0027Success: Your account has been successfully updated.\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027Success: Your account has been successfully updated.\u0027",
+                  "offset": 26
+                }
+              ],
+              "location": "step.definitions.RetailStepDef.user_should_see_a_message(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@retail"
+          },
+          {
+            "name": "@retail"
+          }
+        ]
+      }
+    ],
+    "name": "Retail page",
+    "description": "",
+    "id": "retail-page",
+    "keyword": "Feature",
+    "uri": "classpath:features/Retail.feature",
+    "tags": [
+      {
+        "name": "@retail",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

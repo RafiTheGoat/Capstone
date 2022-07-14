@@ -1,0 +1,6 @@
+step/definitions/RetailStepDef.class
+runner/Runner.class
+step/definitions/HomeStepDef.class
+step/definitions/Initializer.class
+step/definitions/LaptopsNoteBooksStepDef.class
+step/definitions/DesktopsStepDef.class

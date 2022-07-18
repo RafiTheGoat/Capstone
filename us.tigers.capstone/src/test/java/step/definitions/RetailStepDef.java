@@ -8,27 +8,24 @@ import page.objects.RetailPage;
 
 public class RetailStepDef extends Base{
 RetailPage retailPage = new RetailPage();
+
 	
+	//Background step defs
 	@Given("User click on MyAccount")
 	public void user_click_on_my_account() {
 		retailPage.clickMyAccountDrop();
-		logger.info("User clicked on my account dropdown");
-	    
+		logger.info("User clicked on my account dropdown"); 
 	}
 
 	@When("User click on Login")
 	public void user_click_on_login() {
-		retailPage.clickMyAccountDrop();
 		retailPage.clickOnLogin();
 		logger.info("User clicked on login");
-		
-		
 	}
 
 	@When("User enter username {string} and password {string}")
 	public void user_enter_username_and_password(String email, String pass) {
 		retailPage.register(email, pass);
-		
 		logger.info("User input email and password");
 	    
 	}
@@ -44,71 +41,65 @@ RetailPage retailPage = new RetailPage();
 	public void user_should_be_logged_in_to_my_account_dashboard() {
 	    retailPage.loginSuccessCheck();
 	    logger.info("success message checked");
-
 	    
 	}
 	
 	
 	
 	
-
+	//Scenario 1
+	//this method will repeat 3 times in the Feature 
 	@When("User click on {string} link")
 	public void user_click_on_link(String link) {
-	    retailPage.clickOnAffiliateLink(link);
-	    logger.info("User clicks on affiliate link");
-
-	    
+		
+	    retailPage.clickIfLinkHasText(link);
+	    String loggerMessage = String.format("user clicked on %s",link);
+	    logger.info(loggerMessage);  
 	}
 
 	@When("User fill affiliate form with below information")
-	public void user_fill_affiliate_form_with_below_information(io.cucumber.datatable.DataTable dataTable) {
+	public void user_fill_affiliate_form_with_below_information(io.cucumber.datatable.DataTable dataTable) throws InterruptedException {
 		retailPage.fillAffiliateLinkDetails(dataTable);
-		logger.info("User fills the affiliate link form");
-
-	   
+		logger.info("User fills the affiliate link form");	 
+		Thread.sleep(2000);
 	}
 
 	@When("User click on Continue button")
 	public void user_click_on_Continue_button() {
 	  retailPage.continueButton();
 	  logger.info("User clicks continue button");
-
 	}
 
-	@Then("User should see a success message")
-	public void user_should_see_a_success_message() {
-	    retailPage.checkIfSuccessEdit();
-	    logger.info("success message checked");
-	    
+	//this method will repeat 3 times in the Feature
+	@Then("User should see a message {string}")
+	public void user_should_see_a_success_message(String str) {
+		retailPage.checkSuccess(str);
+		logger.info("checked whether update was successful");
+	}
+	
+		
+	//scenario 2
+	@When("user click on Bank Transfer radio button")
+	public void user_click_on_bank_transfer_radio_button() {
+	    retailPage.clickEditAffiliate();
+	    logger.info("Edit affiliate link clicked");
+	}
+
+	@When("User fill Bank information with below information")
+	public void user_fill_bank_information_with_below_information(io.cucumber.datatable.DataTable dataTable) {
+		retailPage.fillEditAffiliate(dataTable);
+		logger.info("Affiliate information updated.");
 	}
 	
 	
 	
-
-
-	@When("User clicks on {string} link")
-	public void user_clicks_on_link(String string) {
-	    retailPage.editInfo(string);
-	    logger.info("User clicks on the review link");
-	}
-
+	//Scenario 3
 	@When("User modify below information")
 	public void user_modify_below_information(io.cucumber.datatable.DataTable dataTable) {
 	    retailPage.editData(dataTable);
-	    logger.info("User inputs their review");
+	    logger.info("User updates their account information");
 	}
+	
 
-	@When("User click on continue button")
-	public void user_click_on_continue_button() {
-		retailPage.continueButton();
-		 logger.info("User clicks on continue button after review");
-	    
-	}
-
-	@Then("User should see a message {string}")
-	public void user_should_see_a_message(String string) {
-		retailPage.checkIfSuccessEditInfo();
-		 logger.info("success message checked after review");
-	}
 
 }

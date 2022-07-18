@@ -21,7 +21,7 @@ public class DesktopsStepDef extends Base {
 
 	@Then("User should see all items are present in Desktop page")
 	public void user_should_see_all_items_are_present_in_desktop_page() throws InterruptedException {
-	    desktopPage.confirmText();
+	    desktopPage.confirmAllDesktops();
 	    logger.info("user confirmed all items are present");
 	    
 	}

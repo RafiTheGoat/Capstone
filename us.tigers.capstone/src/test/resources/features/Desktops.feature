@@ -28,7 +28,7 @@ Feature: Desktops page
     And User click on Canon EOS 5D item
     And User click on write a review link
     And User fill the review information with below information
-      | yourname | review                            | Rating |
-      | mazyar   | very nice product i really am happy with the quality |      1 |
+      | yourname | review                                               | Rating |
+      | mazyar   | very nice product i am really happy with the quality |      1 |
     And User clicks on Continue button
     Then User should see a message with "Thank you for your review. It has been submitted to the webmaster for approval."

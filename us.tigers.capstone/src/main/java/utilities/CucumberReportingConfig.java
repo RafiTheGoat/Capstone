@@ -16,11 +16,12 @@ public class CucumberReportingConfig {
 		File reportOutputDirectory = new File("target");
 			
 			List<String> jsonFiles = new ArrayList<>();
-			jsonFiles.add("/Users/owner/eclipse-workspace/us.tigers.capstone/target/cucumber.json");
+			jsonFiles.add("/Users/owner/git/repository/us.tigers.capstone/target/cucumber.json");
 			
 			String buildNumber = "1";
 			String projectName = "Capstone";
 		
+			
 			Configuration configuration = new Configuration(reportOutputDirectory, projectName);
 			configuration.addPresentationModes(PresentationMode.RUN_WITH_JENKINS);
 			configuration.setNotFailingStatuses(Collections.singleton(Status.SKIPPED));

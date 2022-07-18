@@ -11,13 +11,13 @@ import utilities.CucumberReportingConfig;
 		
 		features = "classpath:features",
 		glue = "step.definitions",
-		tags = "@retail",
+		tags = "@desktop",
 		dryRun = false,
 		monochrome = true,
 		
 		plugin = {"pretty",
-				"html:/Users/owner/eclipse-workspace/us.tigers.capstone/target/site/cucumber-pretty",
-			    "json:/Users/owner/eclipse-workspace/us.tigers.capstone/target/cucumber.json"},
+				"html:/Users/owner/git/repository/us.tigers.capstone/target/site/cucumber-pretty",
+			    "json:/Users/owner/git/repository/us.tigers.capstone/target/cucumber.json"},
 		publish = true
 		
 		

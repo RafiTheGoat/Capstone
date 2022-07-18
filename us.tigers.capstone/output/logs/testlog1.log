@@ -1406,3 +1406,548 @@
 2022-07-13 20:00:07,174 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list FAILED
 2022-07-13 20:00:07,206 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro started
 2022-07-13 20:00:10,271 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro FAILED
+2022-07-14 19:28:18,957 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart started
+2022-07-14 19:28:27,107 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-14 19:28:29,116 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-14 19:28:29,320 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-14 19:28:31,451 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on MacBook item
+2022-07-14 19:28:31,692 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on add to cart button
+2022-07-14 19:28:34,379 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart PASSED
+2022-07-14 19:28:34,431 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison started
+2022-07-14 19:28:37,926 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-14 19:28:49,824 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-14 19:28:50,050 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison FAILED
+2022-07-14 19:28:50,088 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list started
+2022-07-14 19:28:53,720 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list FAILED
+2022-07-14 19:28:53,754 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro started
+2022-07-14 19:28:57,245 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro FAILED
+2022-07-14 19:29:08,625 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-14 19:29:13,694 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-14 19:29:13,772 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-14 19:29:16,454 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-14 19:29:16,756 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-14 19:29:17,071 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-14 19:29:20,658 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-14 19:29:20,801 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-14 19:29:24,517 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-14 19:29:24,598 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-14 19:29:54,947 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-14 19:29:54,980 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information started
+2022-07-14 19:29:58,519 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-14 19:29:58,585 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-14 19:30:01,073 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-14 19:30:01,377 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-14 19:30:01,693 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-14 19:30:04,440 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information FAILED
+2022-07-14 20:31:11,928 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-14 20:31:18,531 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-14 20:31:18,679 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-14 20:31:20,051 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-14 20:31:20,421 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-14 20:31:20,789 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-14 20:31:22,837 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-14 20:31:22,916 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-14 20:31:26,668 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-14 20:31:26,792 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-14 20:31:28,018 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-14 20:31:28,399 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-14 20:31:28,747 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-14 20:31:30,670 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-14 20:31:30,699 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information started
+2022-07-14 20:31:34,218 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-14 20:31:34,305 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-14 20:31:35,470 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-14 20:31:35,792 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-14 20:31:36,165 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-14 20:31:38,052 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information FAILED
+2022-07-14 20:33:01,660 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-14 20:33:07,191 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-14 20:33:07,270 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-14 20:33:11,094 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-14 20:33:11,149 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information started
+2022-07-14 20:33:14,869 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-14 20:33:14,945 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-14 20:33:17,032 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-14 20:33:17,207 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information FAILED
+2022-07-14 20:36:55,943 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-14 20:37:01,405 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-14 20:37:01,568 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-14 20:37:15,189 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-14 20:37:15,421 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-14 20:37:15,460 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-14 20:37:19,154 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-14 20:37:19,196 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information started
+2022-07-14 20:37:22,376 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information FAILED
+2022-07-14 20:38:30,692 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-14 20:38:35,937 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-14 20:38:36,252 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-14 20:38:36,336 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-14 20:38:39,679 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-14 20:38:39,728 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information started
+2022-07-14 20:38:43,026 [main] INFO /Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information FAILED
+2022-07-14 20:43:32,176 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-14 20:43:38,522 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-14 20:43:38,746 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-14 20:43:39,235 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-14 20:43:39,456 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-14 20:43:39,509 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-14 20:43:43,270 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-14 20:43:43,308 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information started
+2022-07-14 20:43:46,605 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information FAILED
+2022-07-14 20:52:24,128 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-14 20:52:31,130 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-14 20:52:31,282 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-14 20:52:34,857 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-14 20:52:35,122 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-14 20:52:35,148 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information started
+2022-07-14 20:52:39,272 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information FAILED
+2022-07-14 20:54:04,084 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-14 20:54:09,142 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-14 20:54:09,251 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-14 20:54:09,507 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-14 20:54:09,682 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-14 20:54:09,734 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-14 20:54:12,879 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-14 20:54:12,908 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information started
+2022-07-14 20:54:16,285 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information FAILED
+2022-07-14 20:58:19,963 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-14 20:58:24,811 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-14 20:58:24,890 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-14 20:58:29,627 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-14 20:58:29,999 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-14 20:58:30,846 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-14 20:58:34,543 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-14 20:58:34,674 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-14 20:58:38,288 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-14 20:58:38,377 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-14 20:58:39,120 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-14 20:58:39,528 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-14 20:58:39,984 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-14 20:58:41,301 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-14 20:58:41,338 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information started
+2022-07-14 20:58:44,901 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-14 20:58:45,058 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-14 20:58:46,061 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-14 20:58:46,258 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information FAILED
+2022-07-14 20:59:56,341 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-14 21:00:02,428 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-14 21:00:02,513 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-14 21:00:05,913 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-14 21:00:06,111 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-14 21:00:06,151 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-14 21:00:09,815 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-14 21:00:09,845 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information started
+2022-07-14 21:00:12,828 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information FAILED
+2022-07-14 21:19:01,584 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-14 21:19:08,276 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-14 21:19:08,408 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-14 21:19:09,976 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-14 21:19:10,317 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-14 21:19:10,825 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-14 21:19:11,135 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-14 21:19:11,187 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-14 21:19:14,813 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-14 21:19:14,885 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-14 21:19:16,405 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-14 21:19:16,752 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-14 21:19:17,264 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-14 21:19:17,513 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-14 21:19:17,548 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information started
+2022-07-14 21:19:21,117 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-14 21:19:21,200 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-14 21:19:37,084 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-14 21:19:37,569 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-14 21:19:38,234 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-14 21:19:38,566 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information FAILED
+2022-07-16 20:05:28,803 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-16 20:05:36,717 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 20:05:36,884 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 20:05:40,074 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 20:05:40,261 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-16 20:05:40,339 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-16 20:05:44,378 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 20:05:44,482 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 20:05:44,884 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 20:05:45,005 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-16 20:05:45,044 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information started
+2022-07-16 20:05:48,816 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 20:05:49,010 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information FAILED
+2022-07-16 20:06:10,839 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-16 20:06:16,040 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 20:06:16,137 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 20:06:46,461 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-16 20:06:46,528 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-16 20:06:50,599 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 20:06:50,740 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 20:06:52,133 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 20:06:52,437 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-16 20:06:52,948 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-16 20:06:53,007 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - success message checked
+2022-07-16 20:07:23,213 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-16 20:07:23,245 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information started
+2022-07-16 20:07:27,239 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 20:07:27,314 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 20:07:28,816 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 20:07:29,161 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-16 20:07:29,611 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-16 20:07:29,655 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - success message checked
+2022-07-16 20:07:30,872 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Edit your account information
+2022-07-16 20:07:31,427 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User inputs their review
+2022-07-16 20:07:31,864 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks continue button
+2022-07-16 20:07:31,953 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - checked whether update was successful
+2022-07-16 20:07:32,136 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information PASSED
+2022-07-16 20:08:53,835 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-16 20:08:58,592 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 20:08:58,748 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 20:09:02,388 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 20:09:02,735 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-16 20:09:03,115 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-16 20:09:07,053 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-16 20:09:07,145 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-16 20:09:10,947 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 20:09:11,017 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 20:09:12,924 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 20:09:13,300 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-16 20:09:13,670 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-16 20:09:20,454 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-16 20:09:20,520 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information started
+2022-07-16 20:09:24,304 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information FAILED
+2022-07-16 20:11:00,143 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-16 20:11:05,133 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 20:11:05,220 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 20:11:06,779 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 20:11:07,196 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-16 20:11:07,709 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-16 20:11:07,769 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - success message checked
+2022-07-16 20:11:08,108 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Register for an affiliate account
+2022-07-16 20:11:08,601 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User fills the affiliate link form
+2022-07-16 20:11:09,116 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks continue button
+2022-07-16 20:11:09,195 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - checked whether update was successful
+2022-07-16 20:11:09,360 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-07-16 20:11:09,406 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information started
+2022-07-16 20:11:13,089 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 20:11:13,327 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 20:11:15,374 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 20:11:15,758 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-16 20:11:16,218 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-16 20:11:16,264 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - success message checked
+2022-07-16 20:11:17,120 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Edit your account information
+2022-07-16 20:11:17,559 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User inputs their review
+2022-07-16 20:11:17,991 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks continue button
+2022-07-16 20:11:18,071 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - checked whether update was successful
+2022-07-16 20:11:18,232 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information PASSED
+2022-07-16 20:13:11,204 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-16 20:13:16,026 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 20:13:16,103 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 20:13:17,979 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 20:13:18,439 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-16 20:13:18,885 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-16 20:13:18,929 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - success message checked
+2022-07-16 20:13:21,279 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Register for an affiliate account
+2022-07-16 20:13:21,816 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User fills the affiliate link form
+2022-07-16 20:13:22,301 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks continue button
+2022-07-16 20:13:22,380 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - checked whether update was successful
+2022-07-16 20:13:22,546 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-07-16 20:13:22,608 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information started
+2022-07-16 20:13:26,461 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 20:13:26,528 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 20:13:28,174 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 20:13:28,497 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-16 20:13:28,969 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-16 20:13:29,028 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - success message checked
+2022-07-16 20:13:31,854 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Edit your account information
+2022-07-16 20:13:32,270 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User inputs their review
+2022-07-16 20:13:32,701 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks continue button
+2022-07-16 20:13:32,784 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - checked whether update was successful
+2022-07-16 20:13:32,958 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information PASSED
+2022-07-16 20:17:10,906 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-16 20:17:15,527 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 20:17:15,610 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 20:17:17,963 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 20:17:18,310 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-16 20:17:18,787 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-16 20:17:18,835 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - success message checked
+2022-07-16 20:17:19,190 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Register for an affiliate account
+2022-07-16 20:17:19,680 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User fills the affiliate link form
+2022-07-16 20:17:22,185 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks continue button
+2022-07-16 20:17:22,275 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - checked whether update was successful
+2022-07-16 20:17:22,445 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-07-16 20:17:22,498 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information started
+2022-07-16 20:17:26,183 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 20:17:26,257 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 20:17:28,495 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 20:17:28,824 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-16 20:17:29,264 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-16 20:17:29,313 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - success message checked
+2022-07-16 20:17:30,264 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Edit your account information
+2022-07-16 20:17:30,698 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User inputs their review
+2022-07-16 20:17:31,220 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks continue button
+2022-07-16 20:17:31,299 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - checked whether update was successful
+2022-07-16 20:17:31,460 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information PASSED
+2022-07-16 22:19:48,253 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-16 22:19:54,694 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 22:19:54,887 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 22:19:55,184 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 22:19:55,505 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-16 22:19:55,985 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-16 22:19:56,055 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - success message checked
+2022-07-16 22:19:56,399 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Register for an affiliate account
+2022-07-16 22:20:16,743 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-16 22:20:16,825 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-16 22:20:20,859 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 22:20:20,936 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 22:20:21,400 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 22:20:21,736 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-16 22:20:22,379 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-16 22:20:22,421 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - success message checked
+2022-07-16 22:20:52,597 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-16 22:20:52,639 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information started
+2022-07-16 22:20:56,357 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 22:20:56,426 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 22:20:56,823 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 22:20:57,133 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-16 22:20:57,556 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-16 22:20:57,605 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - success message checked
+2022-07-16 22:20:58,435 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Edit your account information
+2022-07-16 22:20:58,868 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User updates their account information
+2022-07-16 22:20:59,304 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks continue button
+2022-07-16 22:20:59,390 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - checked whether update was successful
+2022-07-16 22:20:59,549 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information PASSED
+2022-07-16 22:23:10,227 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-16 22:23:15,776 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 22:23:15,966 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 22:23:16,272 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 22:23:16,583 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-16 22:23:17,095 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-16 22:23:17,148 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - success message checked
+2022-07-16 22:23:17,510 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Register for an affiliate account
+2022-07-16 22:23:18,006 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User fills the affiliate link form
+2022-07-16 22:23:20,546 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks continue button
+2022-07-16 22:23:20,624 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - checked whether update was successful
+2022-07-16 22:23:20,793 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-07-16 22:23:20,841 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-16 22:23:24,346 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 22:23:24,465 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 22:23:24,768 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 22:23:25,049 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-16 22:23:25,474 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-16 22:23:25,516 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - success message checked
+2022-07-16 22:23:25,980 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Edit your affiliate information
+2022-07-16 22:23:26,078 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Edit affiliate link clicked
+2022-07-16 22:23:26,139 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Affiliate information updated.
+2022-07-16 22:23:26,445 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks continue button
+2022-07-16 22:23:56,668 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-16 22:23:56,724 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information started
+2022-07-16 22:24:01,137 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 22:24:01,256 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 22:24:01,411 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information FAILED
+2022-07-16 22:27:26,322 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-16 22:27:31,609 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 22:27:31,818 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 22:27:32,131 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 22:27:32,524 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-16 22:27:32,970 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-16 22:27:33,018 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - success message checked
+2022-07-16 22:27:33,368 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Register for an affiliate account
+2022-07-16 22:27:33,875 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User fills the affiliate link form
+2022-07-16 22:27:36,367 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks continue button
+2022-07-16 22:27:36,456 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - checked whether update was successful
+2022-07-16 22:27:36,646 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-07-16 22:27:36,693 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-16 22:27:40,415 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 22:27:40,482 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 22:27:40,830 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 22:27:41,168 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-16 22:27:41,574 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-16 22:27:41,614 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - success message checked
+2022-07-16 22:27:41,929 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Edit your affiliate information
+2022-07-16 22:27:42,004 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Edit affiliate link clicked
+2022-07-16 22:27:42,058 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Affiliate information updated.
+2022-07-16 22:27:42,345 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks continue button
+2022-07-16 22:28:12,573 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-16 22:28:12,624 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information started
+2022-07-16 22:28:16,554 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 22:28:16,642 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 22:28:17,170 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 22:28:17,558 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-16 22:28:18,008 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-16 22:28:18,048 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - success message checked
+2022-07-16 22:28:18,856 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Edit your account information
+2022-07-16 22:28:19,769 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User updates their account information
+2022-07-16 22:28:20,267 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks continue button
+2022-07-16 22:28:20,353 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - checked whether update was successful
+2022-07-16 22:28:20,574 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information PASSED
+2022-07-16 22:30:16,705 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-16 22:30:22,037 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 22:30:22,177 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 22:30:22,474 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 22:30:22,750 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-16 22:30:23,200 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-16 22:30:23,257 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - success message checked
+2022-07-16 22:30:23,604 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Register for an affiliate account
+2022-07-16 22:30:24,171 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User fills the affiliate link form
+2022-07-16 22:30:26,834 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks continue button
+2022-07-16 22:30:26,921 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - checked whether update was successful
+2022-07-16 22:30:27,113 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-07-16 22:30:27,159 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-16 22:30:30,706 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 22:30:30,780 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 22:30:31,094 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 22:30:31,379 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-16 22:30:31,795 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-16 22:30:31,844 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - success message checked
+2022-07-16 22:30:32,179 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Edit your affiliate information
+2022-07-16 22:30:32,263 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Edit affiliate link clicked
+2022-07-16 22:30:32,310 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Affiliate information updated.
+2022-07-16 22:30:32,600 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks continue button
+2022-07-16 22:30:56,645 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - checked whether update was successful
+2022-07-16 22:30:56,796 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-07-16 22:30:56,861 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information started
+2022-07-16 22:31:00,801 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 22:31:00,871 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 22:31:01,220 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 22:31:01,517 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-16 22:31:01,930 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-16 22:31:01,974 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - success message checked
+2022-07-16 22:31:02,955 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Edit your account information
+2022-07-16 22:31:03,371 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User updates their account information
+2022-07-16 22:31:03,815 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks continue button
+2022-07-16 22:31:03,883 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - checked whether update was successful
+2022-07-16 22:31:04,048 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information PASSED
+2022-07-16 22:33:01,336 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-16 22:33:06,822 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 22:33:06,980 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 22:33:07,343 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 22:33:07,632 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-16 22:33:08,152 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-16 22:33:08,206 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - success message checked
+2022-07-16 22:33:08,539 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Register for an affiliate account
+2022-07-16 22:33:09,098 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User fills the affiliate link form
+2022-07-16 22:33:11,600 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks continue button
+2022-07-16 22:33:11,691 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - checked whether update was successful
+2022-07-16 22:33:11,863 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-07-16 22:33:11,920 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-16 22:33:15,493 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 22:33:15,560 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 22:33:16,044 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 22:33:16,316 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-16 22:33:16,822 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-16 22:33:16,861 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - success message checked
+2022-07-16 22:33:17,218 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Edit your affiliate information
+2022-07-16 22:33:17,319 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Edit affiliate link clicked
+2022-07-16 22:33:19,821 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Affiliate information updated.
+2022-07-16 22:33:20,234 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks continue button
+2022-07-16 22:33:20,317 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - checked whether update was successful
+2022-07-16 22:33:20,452 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-07-16 22:33:20,500 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information started
+2022-07-16 22:33:24,612 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 22:33:24,676 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-16 22:33:25,048 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-16 22:33:25,367 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-16 22:33:25,818 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-16 22:33:25,871 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - success message checked
+2022-07-16 22:33:26,674 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Edit your account information
+2022-07-16 22:33:27,068 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User updates their account information
+2022-07-16 22:33:27,492 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks continue button
+2022-07-16 22:33:27,571 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - checked whether update was successful
+2022-07-16 22:33:27,745 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information PASSED
+2022-07-16 23:11:48,354 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-07-16 23:11:54,915 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 23:11:55,132 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on desktop tab
+2022-07-16 23:11:55,690 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on show all desktops
+2022-07-16 23:11:55,731 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user confirmed all items are present
+2022-07-16 23:11:55,907 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User verify all items are present in Desktops tab PASSED
+2022-07-16 23:11:55,958 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-07-16 23:11:59,509 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 23:11:59,649 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on desktop tab
+2022-07-16 23:12:00,233 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on show all desktops
+2022-07-16 23:12:00,310 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user Added HP LP3065 to cart
+2022-07-16 23:12:02,421 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user selects the quantity
+2022-07-16 23:12:02,504 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on add to cart button
+2022-07-16 23:12:02,706 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-16 23:12:02,916 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-07-16 23:12:02,947 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-16 23:12:06,700 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 23:12:06,836 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on desktop tab
+2022-07-16 23:12:07,484 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on show all desktops
+2022-07-16 23:12:09,810 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked option Add to cart for EOS 5D item
+2022-07-16 23:12:10,059 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user selects the quantity
+2022-07-16 23:12:10,137 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on add to cart button
+2022-07-16 23:12:10,325 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-16 23:12:10,484 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-07-16 23:12:10,520 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-16 23:12:14,252 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-16 23:12:14,389 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on desktop tab
+2022-07-16 23:12:14,965 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on show all desktops
+2022-07-16 23:12:17,201 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on ite =m EOS 5d item
+2022-07-16 23:12:17,388 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked write a review link
+2022-07-16 23:12:18,021 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user filled review information
+2022-07-16 23:12:18,125 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Continue Button
+2022-07-16 23:12:18,289 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-16 23:12:18,464 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-18 19:18:46,174 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-07-18 19:18:55,008 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-18 19:18:55,218 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on desktop tab
+2022-07-18 19:18:55,806 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on show all desktops
+2022-07-18 19:18:56,037 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User verify all items are present in Desktops tab FAILED
+2022-07-18 19:18:56,109 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-07-18 19:19:00,029 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-18 19:19:00,166 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on desktop tab
+2022-07-18 19:19:00,830 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on show all desktops
+2022-07-18 19:19:00,890 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user Added HP LP3065 to cart
+2022-07-18 19:19:02,872 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user selects the quantity
+2022-07-18 19:19:03,040 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on add to cart button
+2022-07-18 19:19:03,231 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-18 19:19:03,418 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-07-18 19:19:03,453 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-18 19:19:07,018 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-18 19:19:07,160 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on desktop tab
+2022-07-18 19:19:07,725 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on show all desktops
+2022-07-18 19:19:09,954 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked option Add to cart for EOS 5D item
+2022-07-18 19:19:10,170 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user selects the quantity
+2022-07-18 19:19:10,294 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on add to cart button
+2022-07-18 19:19:10,487 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-18 19:19:10,760 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-07-18 19:19:10,805 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-18 19:19:14,531 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-18 19:19:14,669 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on desktop tab
+2022-07-18 19:19:15,243 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on show all desktops
+2022-07-18 19:19:17,414 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on ite =m EOS 5d item
+2022-07-18 19:19:17,490 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked write a review link
+2022-07-18 19:19:18,013 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user filled review information
+2022-07-18 19:19:18,086 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Continue Button
+2022-07-18 19:19:18,245 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-18 19:19:18,428 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-18 19:20:09,813 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-07-18 19:20:15,198 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-18 19:20:15,369 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on desktop tab
+2022-07-18 19:20:15,993 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on show all desktops
+2022-07-18 19:20:16,196 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User verify all items are present in Desktops tab FAILED
+2022-07-18 19:20:16,271 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-07-18 19:20:20,298 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-18 19:20:20,436 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on desktop tab
+2022-07-18 19:20:21,010 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on show all desktops
+2022-07-18 19:20:21,072 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user Added HP LP3065 to cart
+2022-07-18 19:20:23,075 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user selects the quantity
+2022-07-18 19:20:23,214 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on add to cart button
+2022-07-18 19:20:23,412 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-18 19:20:23,572 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-07-18 19:20:23,608 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-18 19:20:27,501 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-18 19:20:27,636 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on desktop tab
+2022-07-18 19:20:28,231 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on show all desktops
+2022-07-18 19:20:30,443 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked option Add to cart for EOS 5D item
+2022-07-18 19:20:30,675 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user selects the quantity
+2022-07-18 19:20:30,751 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on add to cart button
+2022-07-18 19:20:30,946 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-18 19:20:31,134 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-07-18 19:20:31,170 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-18 19:20:34,771 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-18 19:20:35,013 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on desktop tab
+2022-07-18 19:20:35,599 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on show all desktops
+2022-07-18 19:20:37,872 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on ite =m EOS 5d item
+2022-07-18 19:20:37,951 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked write a review link
+2022-07-18 19:20:38,566 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user filled review information
+2022-07-18 19:20:38,640 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Continue Button
+2022-07-18 19:20:38,793 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-18 19:20:39,185 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED

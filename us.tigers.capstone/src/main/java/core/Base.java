@@ -22,8 +22,8 @@ public class Base {
 	public static WebDriver driver;
 	public static Properties properties; // This class will help us read data from .properties files
 	public static Logger logger; // this class will help us to log each step of our execution
-	private String configPath = "/Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/config.properties"; // this is path to config file
-	private String log4jPath = "/Users/owner/eclipse-workspace/us.tigers.capstone/src/test/resources/input/log4j.properties"; // this is path to log4j file 
+	private String configPath = "/Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/config.properties"; // this is path to config file
+	private String log4jPath = "/Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties"; // this is path to log4j file 
 	
 	/**
 	 * we create a constructor to initialize the variables values from the 

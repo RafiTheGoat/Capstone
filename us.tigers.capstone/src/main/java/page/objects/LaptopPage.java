@@ -114,12 +114,6 @@ public class LaptopPage extends Base{
 	
 	public void clickOnMacAir(String macAirText) {
 		if(checksIfTextInElement(macAirText));
-		try {
-			Thread.sleep(2000);
-		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
 		macbookAirCompare.click();	
 	}
 	
@@ -162,7 +156,7 @@ public class LaptopPage extends Base{
 	
 	
 	
-	//helper methods
+	//helper methods for this Feature
 	
 	/**
 	 * method return true if the element with the given string is visible
@@ -176,6 +170,7 @@ public class LaptopPage extends Base{
 		WebElement elem = driver.findElement(By.xpath(strFormat));
 		boolean checkIfDisplayed = elem.isDisplayed();
 		return checkIfDisplayed;
+		
 		
 	}
 	

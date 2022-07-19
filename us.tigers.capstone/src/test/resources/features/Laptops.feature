@@ -2,8 +2,8 @@
 Feature: laptop & Notebooks
 
   Background: user is on retail, clicks on laptops and notebooks option
-    When User clicks on Laptop &Notebook option
-    When User clicks on Show all Laptop & Notebook option
+    When User clicks on Laptop & Notebook option
+    And User clicks on Show all Laptop & Notebook option
 
   @laptopnote
   Scenario: Add and Remove a Macbook from the cart

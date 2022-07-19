@@ -11,7 +11,7 @@ import utilities.CucumberReportingConfig;
 		
 		features = "classpath:features",
 		glue = "step.definitions",
-		tags = "@desktop",
+		tags = "@Home",
 		dryRun = false,
 		monochrome = true,
 		

@@ -45,10 +45,9 @@ HomePage homepage = new HomePage();
 	@Then("{string} message should be displayed")
 	public void message_should_be_displayed(String string) {
 		String ActualText = utilities.Util.getText(homepage.cartText);
-		
 		String ExpectedText = string;
 		Assert.assertEquals(ExpectedText,ActualText);
-		 logger.info("Message was displayed");
+		logger.info("Success Message was displayed");
 	}	
 
 }

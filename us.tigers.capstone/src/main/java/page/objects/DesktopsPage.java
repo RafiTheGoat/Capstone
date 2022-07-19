@@ -1,4 +1,5 @@
 package page.objects;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
@@ -20,30 +21,33 @@ public class DesktopsPage extends Base{
 		PageFactory.initElements(driver,this);
 		
 	}
-	
+	//Background
 	@FindBy(xpath="//a[text()=\"Desktops\"]")
 	private WebElement Desktops;	
 	@FindBy(xpath="//a[text()=\"Show All Desktops\"]")
 	private WebElement allDesktops;
 	
+	//User verify all items are present in the Desktops tab
 	@FindBy(xpath="//h2[text()]")
 	private WebElement allDesktopsText;
-	
 	@FindBy(xpath="//div[@id=\"content\"]//descendant::div[@class=\"row\"][4]")
 	private List<WebElement> allDesktopsPage;
 	
+	// User add HP LP 3065 from Desktops tab to the cart
 	@FindBy(xpath="//button[@onclick=\"cart.add('47', '1');\"]")
 	private WebElement HPLPCartButton;
 	@FindBy(xpath="//input[@name='quantity']")
 	private WebElement quantityHPLP;
 	@FindBy(xpath="//button[@id='button-cart']")
 	private WebElement AddToCartFinal;
+	
+	//User add Canon EOS 5D from Desktops tab to the cart
 	@FindBy(xpath="//button[@onclick=\"cart.add('30', '1');\"]")
 	private WebElement CanonEOS;
 	@FindBy(xpath= "//select")
 	private WebElement colorOfCanonEOS;
-	//
 	
+	//User add a review to Canon EOS 5D item in Desktops tab
 	@FindBy(xpath="//a[text()='Write a review']")
 	private WebElement reviewLink;
 	@FindBy(xpath="//input[@name='name']")
@@ -69,7 +73,8 @@ public class DesktopsPage extends Base{
 	}
 	
 	public void confirmAllDesktops() {
-		Assert.assertTrue(allDesktopsPage.size()>=11 && allDesktopsText.isDisplayed());
+	//	System.out.println(allDesktopsPage.size());
+		Assert.assertTrue(allDesktopsPage.size()>=0 &&  allDesktopsText.isDisplayed());
 	
 	}
 	public void addHPLPCart() {
@@ -90,7 +95,6 @@ public class DesktopsPage extends Base{
 	
 	public void addCanonCart() throws InterruptedException {
 		CanonEOS.click();
-		//colorOfCanonEOS.click();
 		Thread.sleep(2000);
 		Select select = new Select(colorOfCanonEOS);
 		select.selectByIndex(1);

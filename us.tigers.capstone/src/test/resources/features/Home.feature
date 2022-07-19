@@ -1,8 +1,4 @@
 Feature: Home Page
-
-  Background: user is on retail web page
-    Given User is on Retail website
-
   @Home
   Scenario: User verify currency values change
     When User clicks on Currency

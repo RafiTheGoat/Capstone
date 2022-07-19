@@ -1,6 +1,7 @@
 package page.objects;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
@@ -19,7 +20,7 @@ public class LaptopPage extends Base{
 	}
 	
 	//Background page objects 
-	@FindBy(xpath = "//a[text()=\"Laptops & Notebooks\"]//ancestor::li")
+	@FindBy(xpath = "//a[text()=\"Laptops & Notebooks\"]")
 	private WebElement laptopDrop;
 	@FindBy(xpath = "//a[text()=\"Show All Laptops & Notebooks\"]")
 	private WebElement allLaptopsLink;
@@ -60,14 +61,15 @@ public class LaptopPage extends Base{
 	private WebElement MackBookProPrice;
 	
 	
-	
-	
-	
+
 	
 	//background
-	public void clickAllLaptopDropdown() {
+	public void clickAllLaptopDrop() {
+		
 		Actions action = new Actions(driver);
-		action.moveToElement(laptopDrop).build().perform();		
+		action.moveToElement(laptopDrop).build().perform();	
+		
+		
 	}
 	public void clickOnShowAllLaptopsLink() {
 		allLaptopsLink.click();
@@ -102,9 +104,7 @@ public class LaptopPage extends Base{
 		removeBtn.click();
 	}
 	
-	
-	
-	
+
 	//scenario
 	public void clickOnMac(String mackbookText) {
 		if(checksIfTextInElement(mackbookText));
@@ -113,6 +113,7 @@ public class LaptopPage extends Base{
 	}
 	
 	public void clickOnMacAir(String macAirText) {
+		
 		if(checksIfTextInElement(macAirText));
 		macbookAirCompare.click();	
 	}
@@ -127,9 +128,7 @@ public class LaptopPage extends Base{
 		
 	}
 	
-	
-	
-	
+		
 	//scenario
 	public void clickOnSonyWish() {
 		sonyWishListButton.click();
@@ -154,8 +153,6 @@ public class LaptopPage extends Base{
 		Util.confirmText(MackBookProPrice, str);
 	}
 	
-	
-	
 	//helper methods for this Feature
 	
 	/**
@@ -170,11 +167,5 @@ public class LaptopPage extends Base{
 		WebElement elem = driver.findElement(By.xpath(strFormat));
 		boolean checkIfDisplayed = elem.isDisplayed();
 		return checkIfDisplayed;
-		
-		
-	}
-	
-	
-	
-
+	}	
 }

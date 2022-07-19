@@ -10,12 +10,12 @@ public class LaptopsNoteBooksStepDef extends Base{
 	LaptopPage laptopPage = new LaptopPage();
 	
 	//background step definitions
-	@When("User clicks on Show all Laptop & Notebook option")
+	@When("User clicks on Laptop & Notebook option")
 	public void user_clicks_on_show_all_laptop_notebook_option() {
-	    laptopPage.clickAllLaptopDropdown();
+	    laptopPage.clickAllLaptopDrop();
 	    logger.info("user clicks laptops and notebooksc drop down");
 	}
-	@When("User clicks on Laptop &Notebook option")
+	@And("User clicks on Show all Laptop & Notebook option")
 	public void userClicksOnShowAllLaptopNotebookOption(){
 		laptopPage.clickOnShowAllLaptopsLink();
 		 logger.info("user clicks on show all laptops and notebooks");

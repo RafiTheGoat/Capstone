@@ -63,12 +63,6 @@ public class HomePage extends Base{
 		ShoppingCart.click();
 	}
 	
-	
-	
-	
-	
-	
-	
-	
+		
 
 }

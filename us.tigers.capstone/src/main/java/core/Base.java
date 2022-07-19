@@ -87,7 +87,7 @@ public class Base {
 			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver();
 			break;
-		case "ff":
+		case "firefox":
 			WebDriverManager.firefoxdriver().setup();
 			driver = new FirefoxDriver();
 			break;

@@ -1951,3 +1951,387 @@
 2022-07-18 19:20:38,640 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on Continue Button
 2022-07-18 19:20:38,793 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user saw a confirmation message
 2022-07-18 19:20:39,185 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-18 19:29:46,273 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User verify all items are present in Desktops tab started
+2022-07-18 19:29:52,750 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:29:52,966 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:29:53,556 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:29:53,848 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User verify all items are present in Desktops tab FAILED
+2022-07-18 19:29:53,926 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-07-18 19:29:57,888 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:29:58,064 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:29:58,630 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:29:58,706 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user Added HP LP3065 to cart
+2022-07-18 19:30:00,951 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user selects the quantity
+2022-07-18 19:30:01,168 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on add to cart button
+2022-07-18 19:30:01,378 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user saw a confirmation message
+2022-07-18 19:30:01,595 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-07-18 19:30:01,633 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-18 19:30:05,375 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:30:05,517 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:30:06,106 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:30:08,631 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked option Add to cart for EOS 5D item
+2022-07-18 19:30:08,888 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user selects the quantity
+2022-07-18 19:30:08,977 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on add to cart button
+2022-07-18 19:30:12,749 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user saw a confirmation message
+2022-07-18 19:30:13,057 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-07-18 19:30:13,124 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-18 19:30:16,871 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:30:17,004 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:30:17,588 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:30:19,846 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks on ite =m EOS 5d item
+2022-07-18 19:30:19,967 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked write a review link
+2022-07-18 19:30:20,579 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user filled review information
+2022-07-18 19:30:20,656 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on Continue Button
+2022-07-18 19:30:20,815 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user saw a confirmation message
+2022-07-18 19:30:21,058 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-18 19:31:55,505 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User verify all items are present in Desktops tab started
+2022-07-18 19:32:01,089 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:32:01,313 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:32:02,034 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:32:02,120 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user confirmed all items are present
+2022-07-18 19:32:02,340 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-07-18 19:32:02,439 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-07-18 19:32:06,332 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:32:06,470 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:32:07,131 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:32:07,208 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user Added HP LP3065 to cart
+2022-07-18 19:32:09,187 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user selects the quantity
+2022-07-18 19:32:09,396 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on add to cart button
+2022-07-18 19:32:09,615 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user saw a confirmation message
+2022-07-18 19:32:09,832 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-07-18 19:32:09,909 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-18 19:32:13,557 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:32:13,725 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:32:14,345 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:32:16,580 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked option Add to cart for EOS 5D item
+2022-07-18 19:32:16,910 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user selects the quantity
+2022-07-18 19:32:17,037 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on add to cart button
+2022-07-18 19:32:17,271 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user saw a confirmation message
+2022-07-18 19:32:17,508 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-07-18 19:32:17,558 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-18 19:32:21,444 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:32:21,576 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:32:22,283 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:32:24,477 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks on ite =m EOS 5d item
+2022-07-18 19:32:24,551 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked write a review link
+2022-07-18 19:32:27,087 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user filled review information
+2022-07-18 19:32:27,176 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on Continue Button
+2022-07-18 19:32:27,338 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user saw a confirmation message
+2022-07-18 19:32:27,518 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-18 19:41:58,211 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User verify all items are present in Desktops tab started
+2022-07-18 19:42:04,759 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:42:04,984 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User verify all items are present in Desktops tab FAILED
+2022-07-18 19:42:05,070 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-07-18 19:42:08,669 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:42:08,864 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-07-18 19:42:08,946 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-18 19:42:12,710 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:42:12,892 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-07-18 19:42:12,976 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-18 19:42:16,718 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:42:16,921 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-07-18 19:43:54,171 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User verify all items are present in Desktops tab started
+2022-07-18 19:43:59,599 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:43:59,800 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:44:00,408 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:44:00,647 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User verify all items are present in Desktops tab FAILED
+2022-07-18 19:44:00,735 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-07-18 19:44:04,485 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:44:04,623 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:44:05,331 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:44:05,399 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user Added HP LP3065 to cart
+2022-07-18 19:44:07,491 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user selects the quantity
+2022-07-18 19:44:07,561 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on add to cart button
+2022-07-18 19:44:07,754 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user saw a confirmation message
+2022-07-18 19:44:07,977 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-07-18 19:44:08,017 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-18 19:44:11,550 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:44:11,686 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:44:12,277 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:44:14,207 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-07-18 19:44:14,273 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-18 19:44:17,770 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:44:17,903 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:44:18,487 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:44:20,290 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-07-18 19:46:23,561 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User verify all items are present in Desktops tab started
+2022-07-18 19:46:29,262 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:46:29,472 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:46:30,134 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:46:30,238 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user confirmed all items are present
+2022-07-18 19:46:30,421 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-07-18 19:46:30,473 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-07-18 19:46:34,490 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:46:34,626 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:46:35,202 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:46:35,264 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user Added HP LP3065 to cart
+2022-07-18 19:46:37,437 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user selects the quantity
+2022-07-18 19:46:37,574 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on add to cart button
+2022-07-18 19:46:37,775 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user saw a confirmation message
+2022-07-18 19:46:38,006 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-07-18 19:46:38,038 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-18 19:46:41,689 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:46:41,822 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:46:42,420 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:46:44,236 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-07-18 19:46:44,287 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-18 19:46:47,891 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:46:48,031 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:46:48,605 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:46:50,166 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks on ite =m EOS 5d item
+2022-07-18 19:46:50,385 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked write a review link
+2022-07-18 19:46:52,968 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user filled review information
+2022-07-18 19:46:53,055 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on Continue Button
+2022-07-18 19:46:53,256 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user saw a confirmation message
+2022-07-18 19:46:53,500 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-18 19:47:04,590 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User verify all items are present in Desktops tab started
+2022-07-18 19:47:09,990 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:47:10,166 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:47:10,744 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:47:10,864 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user confirmed all items are present
+2022-07-18 19:47:11,035 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-07-18 19:47:11,102 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-07-18 19:47:14,749 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:47:14,887 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:47:15,584 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:47:15,644 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user Added HP LP3065 to cart
+2022-07-18 19:47:17,779 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user selects the quantity
+2022-07-18 19:47:18,225 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on add to cart button
+2022-07-18 19:47:18,414 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user saw a confirmation message
+2022-07-18 19:47:18,616 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-07-18 19:47:18,659 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-18 19:47:22,327 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:47:22,461 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:47:23,051 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:47:24,897 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-07-18 19:47:24,939 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-18 19:47:28,664 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:47:28,797 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:47:29,376 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:47:31,366 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-07-18 19:49:14,662 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User verify all items are present in Desktops tab started
+2022-07-18 19:49:20,183 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:49:20,371 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:49:20,950 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:49:21,057 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user confirmed all items are present
+2022-07-18 19:49:21,253 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-07-18 19:49:21,313 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-07-18 19:49:25,071 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:49:25,207 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:49:25,823 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:49:25,889 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user Added HP LP3065 to cart
+2022-07-18 19:49:28,014 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user selects the quantity
+2022-07-18 19:49:28,167 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on add to cart button
+2022-07-18 19:49:28,357 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user saw a confirmation message
+2022-07-18 19:49:28,597 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-07-18 19:49:28,628 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-18 19:49:32,193 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:49:32,334 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:49:33,156 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:49:37,015 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-07-18 19:49:37,066 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-18 19:49:40,565 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:49:40,698 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:49:41,474 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:49:45,125 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks on ite =m EOS 5d item
+2022-07-18 19:49:45,233 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked write a review link
+2022-07-18 19:49:47,893 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user filled review information
+2022-07-18 19:49:47,970 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on Continue Button
+2022-07-18 19:49:48,127 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user saw a confirmation message
+2022-07-18 19:49:48,306 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-18 19:51:09,880 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User verify all items are present in Desktops tab started
+2022-07-18 19:51:15,263 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:51:15,439 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:51:16,046 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:51:16,266 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User verify all items are present in Desktops tab FAILED
+2022-07-18 19:51:16,347 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-07-18 19:51:20,021 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:51:20,158 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:51:20,931 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:51:20,988 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user Added HP LP3065 to cart
+2022-07-18 19:51:22,957 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user selects the quantity
+2022-07-18 19:51:23,035 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on add to cart button
+2022-07-18 19:51:23,282 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user saw a confirmation message
+2022-07-18 19:51:23,489 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-07-18 19:51:23,531 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-18 19:51:27,254 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:51:27,395 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:51:28,111 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:51:32,145 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-07-18 19:51:32,179 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-18 19:51:35,741 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:51:35,878 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:51:36,448 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:51:40,368 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-07-18 19:53:00,491 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User verify all items are present in Desktops tab started
+2022-07-18 19:53:06,111 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:53:06,294 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:53:06,877 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:53:06,975 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user confirmed all items are present
+2022-07-18 19:53:07,147 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-07-18 19:53:07,214 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-07-18 19:53:11,328 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:53:11,464 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:53:12,046 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:53:12,101 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user Added HP LP3065 to cart
+2022-07-18 19:53:14,139 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user selects the quantity
+2022-07-18 19:53:14,232 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on add to cart button
+2022-07-18 19:53:14,426 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user saw a confirmation message
+2022-07-18 19:53:14,602 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-07-18 19:53:14,646 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-18 19:53:18,297 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:53:18,437 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:53:21,063 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:53:23,256 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked option Add to cart for EOS 5D item
+2022-07-18 19:53:23,463 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user selects the quantity
+2022-07-18 19:53:23,541 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on add to cart button
+2022-07-18 19:53:23,721 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user saw a confirmation message
+2022-07-18 19:53:23,904 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-07-18 19:53:23,964 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-18 19:53:27,507 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 19:53:27,698 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-18 19:53:28,259 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on show all desktops
+2022-07-18 19:53:30,434 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks on ite =m EOS 5d item
+2022-07-18 19:53:30,514 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked write a review link
+2022-07-18 19:53:31,084 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user filled review information
+2022-07-18 19:53:31,150 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicked on Continue Button
+2022-07-18 19:53:31,316 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user saw a confirmation message
+2022-07-18 19:53:31,504 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-18 20:11:57,769 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Add and Remove a Macbook from the cart started
+2022-07-18 20:12:04,482 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 20:12:09,164 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks on show all laptops and notebooks
+2022-07-18 20:12:09,358 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks laptops and notebooksc drop down
+2022-07-18 20:12:11,100 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks on MacBook item
+2022-07-18 20:12:11,200 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks on add to cart button
+2022-07-18 20:12:13,904 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Add and Remove a Macbook from the cart PASSED
+2022-07-18 20:12:13,949 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Product comparison started
+2022-07-18 20:12:17,633 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 20:12:21,309 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Product comparison FAILED
+2022-07-18 20:12:21,381 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Adding an item to wish list started
+2022-07-18 20:12:25,465 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 20:12:30,539 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks on show all laptops and notebooks
+2022-07-18 20:12:30,763 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Adding an item to wish list FAILED
+2022-07-18 20:12:30,828 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Validate price of Macbook Pro started
+2022-07-18 20:12:34,324 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Validate price of Macbook Pro FAILED
+2022-07-18 20:13:01,550 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Add and Remove a Macbook from the cart started
+2022-07-18 20:13:07,173 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 20:13:11,301 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Add and Remove a Macbook from the cart FAILED
+2022-07-18 20:13:11,369 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Product comparison started
+2022-07-18 20:13:15,956 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 20:13:27,276 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Product comparison FAILED
+2022-07-18 20:13:27,335 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Adding an item to wish list started
+2022-07-18 20:13:30,719 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Adding an item to wish list FAILED
+2022-07-18 20:13:30,786 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Validate price of Macbook Pro started
+2022-07-18 20:13:34,246 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Validate price of Macbook Pro FAILED
+2022-07-18 20:19:21,736 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Add and Remove a Macbook from the cart started
+2022-07-18 20:19:27,277 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 20:19:32,085 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks on show all laptops and notebooks
+2022-07-18 20:19:32,363 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks laptops and notebooksc drop down
+2022-07-18 20:19:33,959 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks on MacBook item
+2022-07-18 20:19:34,075 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks on add to cart button
+2022-07-18 20:19:36,874 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Add and Remove a Macbook from the cart PASSED
+2022-07-18 20:19:36,921 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Product comparison started
+2022-07-18 20:19:40,612 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 20:19:41,756 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks on show all laptops and notebooks
+2022-07-18 20:19:41,973 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks laptops and notebooksc drop down
+2022-07-18 20:19:42,305 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user saw a confirmation message
+2022-07-18 20:19:42,888 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Product comparison PASSED
+2022-07-18 20:19:42,938 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Adding an item to wish list started
+2022-07-18 20:19:46,504 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 20:20:08,743 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Adding an item to wish list FAILED
+2022-07-18 20:20:08,805 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Validate price of Macbook Pro started
+2022-07-18 20:20:12,575 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 20:20:17,461 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks on show all laptops and notebooks
+2022-07-18 20:20:17,683 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Validate price of Macbook Pro FAILED
+2022-07-18 20:21:55,400 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Add and Remove a Macbook from the cart started
+2022-07-18 20:22:02,318 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 20:22:05,485 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks on show all laptops and notebooks
+2022-07-18 20:22:05,753 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Add and Remove a Macbook from the cart FAILED
+2022-07-18 20:22:05,835 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Product comparison started
+2022-07-18 20:22:09,352 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Product comparison FAILED
+2022-07-18 20:22:09,401 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Adding an item to wish list started
+2022-07-18 20:22:12,534 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Adding an item to wish list FAILED
+2022-07-18 20:22:12,575 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Validate price of Macbook Pro started
+2022-07-18 20:22:15,853 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Validate price of Macbook Pro FAILED
+2022-07-18 20:23:44,632 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Add and Remove a Macbook from the cart started
+2022-07-18 20:23:55,893 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 20:23:57,027 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Add and Remove a Macbook from the cart FAILED
+2022-07-18 20:23:57,087 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Product comparison started
+2022-07-18 20:24:03,803 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 20:24:05,070 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Product comparison FAILED
+2022-07-18 20:24:05,117 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Adding an item to wish list started
+2022-07-18 20:24:12,179 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 20:24:13,688 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Adding an item to wish list FAILED
+2022-07-18 20:24:13,733 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Validate price of Macbook Pro started
+2022-07-18 20:24:20,569 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 20:24:21,577 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Validate price of Macbook Pro FAILED
+2022-07-18 20:25:15,728 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Add and Remove a Macbook from the cart started
+2022-07-18 20:25:23,508 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 20:25:24,714 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Add and Remove a Macbook from the cart FAILED
+2022-07-18 20:25:24,776 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Product comparison started
+2022-07-18 20:25:30,834 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Product comparison FAILED
+2022-07-18 20:25:30,887 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Adding an item to wish list started
+2022-07-18 20:25:36,148 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Adding an item to wish list FAILED
+2022-07-18 20:25:36,193 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Validate price of Macbook Pro started
+2022-07-18 20:25:41,387 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Validate price of Macbook Pro FAILED
+2022-07-18 20:26:48,556 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Add and Remove a Macbook from the cart started
+2022-07-18 20:26:54,377 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 20:26:54,571 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Add and Remove a Macbook from the cart UNDEFINED
+2022-07-18 20:26:54,643 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Product comparison started
+2022-07-18 20:26:58,289 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 20:26:58,472 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Product comparison UNDEFINED
+2022-07-18 20:26:58,525 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Adding an item to wish list started
+2022-07-18 20:27:02,168 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 20:27:02,310 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Adding an item to wish list UNDEFINED
+2022-07-18 20:27:02,368 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Validate price of Macbook Pro started
+2022-07-18 20:27:06,070 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 20:27:06,199 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Validate price of Macbook Pro UNDEFINED
+2022-07-18 20:28:26,880 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Add and Remove a Macbook from the cart started
+2022-07-18 20:28:31,805 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 20:28:31,978 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks laptops and notebooksc drop down
+2022-07-18 20:28:32,466 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks on show all laptops and notebooks
+2022-07-18 20:28:33,904 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks on MacBook item
+2022-07-18 20:28:34,027 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks on add to cart button
+2022-07-18 20:28:36,681 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Add and Remove a Macbook from the cart PASSED
+2022-07-18 20:28:36,785 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Product comparison started
+2022-07-18 20:28:40,532 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 20:28:40,667 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks laptops and notebooksc drop down
+2022-07-18 20:28:41,282 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks on show all laptops and notebooks
+2022-07-18 20:28:41,645 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user saw a confirmation message
+2022-07-18 20:28:42,686 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Product comparison PASSED
+2022-07-18 20:28:42,719 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Adding an item to wish list started
+2022-07-18 20:28:46,273 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 20:28:46,413 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks laptops and notebooksc drop down
+2022-07-18 20:28:47,114 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks on show all laptops and notebooks
+2022-07-18 20:28:47,531 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Adding an item to wish list PASSED
+2022-07-18 20:28:47,557 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Validate price of Macbook Pro started
+2022-07-18 20:28:51,227 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 20:28:51,360 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks laptops and notebooksc drop down
+2022-07-18 20:28:51,842 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user clicks on show all laptops and notebooks
+2022-07-18 20:28:53,332 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User clicks on MacBook Pro item
+2022-07-18 20:28:53,365 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - user sees the price tag for MacBook Pro
+2022-07-18 20:28:53,624 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario Validate price of Macbook Pro PASSED
+2022-07-18 21:19:43,159 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change started
+2022-07-18 21:19:49,958 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 21:19:50,031 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 21:19:50,109 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User clicked on currency drop down
+2022-07-18 21:19:50,579 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User chose Euro from currency drop down
+2022-07-18 21:19:50,634 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Currency changed to Euro
+2022-07-18 21:19:50,840 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change PASSED
+2022-07-18 21:19:50,896 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User empties Shopping cart message displays started
+2022-07-18 21:19:54,672 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 21:19:54,702 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 21:19:54,994 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User clicked on Shopping cart
+2022-07-18 21:19:55,046 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - SuccessMessage was displayed
+2022-07-18 21:19:55,208 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User empties Shopping cart message displays PASSED
+2022-07-18 21:20:47,371 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change started
+2022-07-18 21:20:53,108 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 21:20:53,200 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User clicked on currency drop down
+2022-07-18 21:20:53,767 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User chose Euro from currency drop down
+2022-07-18 21:20:53,811 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Currency changed to Euro
+2022-07-18 21:20:53,990 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change PASSED
+2022-07-18 21:20:54,036 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User empties Shopping cart message displays started
+2022-07-18 21:20:57,805 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User is on the main page
+2022-07-18 21:20:58,172 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - User clicked on Shopping cart
+2022-07-18 21:20:58,218 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - SuccessMessage was displayed
+2022-07-18 21:20:58,392 - /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties -INFO - Scenario User empties Shopping cart message displays PASSED

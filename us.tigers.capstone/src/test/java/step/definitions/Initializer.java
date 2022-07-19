@@ -19,6 +19,7 @@ public class Initializer extends Base {
 		selectBrowser(); // this method will select the browser 
 		launchBrowser(); // this method will launch the browser
 		
+	
 		HomeStepDef home = new HomeStepDef();
 		home.user_is_on_retail_website(); // this method will check if we are on reatil page
 		

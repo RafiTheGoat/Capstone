@@ -35,19 +35,22 @@ public class LaptopsNoteBooksStepDef extends Base{
 	}
 	
 
-	@Then("User should see a success message for macbook {string}")
-	public void user_should_see_a_success_message_for_macbook(String string) {
+	@Then("User should see a sucess message {string}")
+	public void user_should_see_a_success_message(String string) {
 	    laptopPage.successMessage(string);
+	    logger.info("User sees success message ");
 	}
 	
 	@Then("User should see {string} displayed from the cart")
 	public void user_should_see_displayed_from_the_cart(String string) {
 	    laptopPage.checkCartTotal(string);
+	    logger.info("User sees the message displayed from the cart");
 	}
 
 	@Then("User clicks on cart option")
 	public void user_clicks_on_cart_option() {
 	    laptopPage.cartClick();
+	    logger.info("User clicks on the cart option");
 	}
 
 	@Then("User clicks on red X button to remove the item from the cart")
@@ -59,44 +62,41 @@ public class LaptopsNoteBooksStepDef extends Base{
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+	    logger.info("User clicks on X button to remove item forom Cart");
 	}
 	
 	@Then("item should be removed and cart should show {string}")
 	public void item_should_be_removed_and_cart_should_show(String string) {
 		laptopPage.checkCartTotal(string);
+		logger.info("User sees that the item is removed");
 	}
 	
 	//scenario
 	 @And("User clicks on product comparison icon on {string}")
-	 public void User_clicks_on_macbook_compare(String str) throws InterruptedException {
+	 public void User_clicks_on_macbook_and_mackbookAir_compare(String str) throws InterruptedException {
 		 laptopPage.clickOnMac(str);
-	 }
-	 
-	 @And("User clicks on product comparison icon on a {string}")
-	 public void user_clicks_on_macAir_compare(String str) {
-		 laptopPage.clickOnMacAir(str);
+		 Thread.sleep(2000);
+		 logger.info(String.format("User clciked on %s",str));
 	 }
 	 
 	 
 	 @And("User clicks on comparison link")
 	 public void user_clicks_comparison_link() {
 		 laptopPage.clickOnCompareLink();
+		 logger.info("Users clicks on comparison link");
 	 }
 	 
 	 @Then("User should see product comparison chart")
 	 public void user_sees_compare_table() {
 		 laptopPage.checkIfTable();
+		 logger.info("User sees the comparison chart");
 	 }
 	 
 	 //scenario
-	 @When("User clciks on heart icon to add Sony Vaio laptop to wish list")
+	 @When("User clicks on heart icon to add Sony Vaio laptop to wish list")
 	 public void user_clciks_on_heart_icon_to_add_sony_vaio_laptop_to_wish_list() {
 	    laptopPage.clickOnSonyWish();
-	 }
-
-	 @Then("User should get a message {string}")
-	 public void user_should_get_a_message(String string) {
-		 laptopPage.alertMessageSonyVaio(string);
+	    logger.info("User wishlists SOny Vaio");
 	 }
 	 
 	 //scenario

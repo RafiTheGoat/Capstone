@@ -4,7 +4,7 @@ Feature: Retail page
   Background: 
     And User click on MyAccount
     When User click on Login
-    And User enter username 'jondoe6@gmail.com' and password 'abc123'
+    And User enter username 'jondoe41@gmail.com' and password 'abc123'
     And User click on Login button
     Then User should be logged in to MyAccount dashboard
 
@@ -32,6 +32,6 @@ Feature: Retail page
     When User click on 'Edit your account information' link
     And User modify below information
       | firstName | lastName | email               | phone      |
-      | joel      | does     | jondo9918@gmail.com | 9393939393 |
+      | joel      | does     | jondo365@gmail.com | 9393939393 |
     And User click on Continue button
     Then User should see a message 'Success: Your account has been successfully updated.'

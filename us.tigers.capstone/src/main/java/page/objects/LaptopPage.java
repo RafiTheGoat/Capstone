@@ -2,10 +2,13 @@ package page.objects;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import com.fasterxml.jackson.databind.deser.impl.ExternalTypeHandler.Builder;
 
@@ -30,38 +33,26 @@ public class LaptopPage extends Base{
 	private WebElement mackBookIMG;
 	@FindBy(xpath = "//button[@id=\"button-cart\"]")
 	private WebElement addToCartBtn;
-	@FindBy(xpath = "//div[@class=\"alert alert-success alert-dismissible\"]")
-	private WebElement successMessage;
 	@FindBy(xpath = "//span[@id=\"cart-total\"]")
 	private WebElement cartSpan;
 	@FindBy(xpath = "//button[@title=\"Remove\"]")
 	private WebElement removeBtn;
 	
-	//Scenario
-	@FindBy(xpath = "//button[@onclick=\"compare.add('43');\"]")
-	private WebElement macbookCompare;
-	@FindBy(xpath = "//button[@onclick=\"compare.add('44');\"]")
-	private WebElement macbookAirCompare;
+	//Scenario Macbook Compare
 	@FindBy(xpath = "//a[@id='compare-total']")
 	private WebElement compareLink;
 	@FindBy(xpath = "//thead//ancestor::table")
 	private WebElement productCompareTable;
 	
-	
-	//Scenario
+	//Scenario Sony Wishlist
 	@FindBy(xpath="//button[@onclick=\"wishlist.add('46');\"]")
 	private WebElement sonyWishListButton;	
-	@FindBy(xpath="//div[@class=\"alert alert-success alert-dismissible\"]")
-	private WebElement alertMessageWishList;
 	
-	//Scenario
+	//Scenario MAckbook Air Price
 	@FindBy(xpath="//div//div//h4//a[text()=\"MacBook Pro\"]")
 	private WebElement macBookPro;
 	@FindBy(xpath="//h2[text()=\"$2,000.00\"]")
 	private WebElement MackBookProPrice;
-	
-	
-
 	
 	//background
 	public void clickAllLaptopDrop() {
@@ -75,7 +66,7 @@ public class LaptopPage extends Base{
 		allLaptopsLink.click();
 	}
 	
-	//Scenario
+	//Scenario Adding macbook to cart
 	public void clickMacbook() {
 		mackBookIMG.click();
 	}
@@ -83,14 +74,7 @@ public class LaptopPage extends Base{
 	public void addToCart() {
 		addToCartBtn.click();
 	}
-	
-	@SuppressWarnings("deprecation")
-	public void successMessage(String expected) {
-		String actual = Util.getText(successMessage).substring(0,Util.getText(successMessage).length()-2);	
-		actual.trim();
-		Assert.assertEquals(expected, actual);
-		
-	}
+
 	
 	public void checkCartTotal(String str) {
 		Util.confirmText(cartSpan, str);
@@ -101,22 +85,17 @@ public class LaptopPage extends Base{
 	}
 	
 	public void removeBtnClck() {
+		WebDriverWait wait = new WebDriverWait(driver,30);
+		wait.until(ExpectedConditions.visibilityOf(removeBtn));
 		removeBtn.click();
 	}
 	
 
-	//scenario
+	//scenario comparing Macs
 	public void clickOnMac(String mackbookText) {
-		if(checksIfTextInElement(mackbookText));
-		macbookCompare.click();
-		
+		clicksIfTextInElement(mackbookText);		
 	}
-	
-	public void clickOnMacAir(String macAirText) {
-		
-		if(checksIfTextInElement(macAirText));
-		macbookAirCompare.click();	
-	}
+
 	
 	public void clickOnCompareLink() {
 		compareLink.click();
@@ -124,27 +103,18 @@ public class LaptopPage extends Base{
 	
 	public void checkIfTable() {
 		boolean checkCompareTable = productCompareTable.isDisplayed();
-		Assert.assertTrue(checkCompareTable);
-		
+		Assert.assertTrue(checkCompareTable);	
 	}
 	
 		
-	//scenario
+	//scenario wishlisting sony vaio
 	public void clickOnSonyWish() {
 		sonyWishListButton.click();
 	}
 	
-	@SuppressWarnings("deprecation")
-	public void alertMessageSonyVaio(String expected) {
-		String actual =Util.getText(alertMessageWishList).substring(0,Util.getText(alertMessageWishList).length()-2);
-		Assert.assertEquals(expected , actual);
-		
-	}
 	
-	
-	//scenario
+	//scenario checking mackbook Pro price
 	public void clickOnMacbookPro(String str) {
-		if(checksIfTextInElement(str));
 		macBookPro.click();
 		
 	}
@@ -153,19 +123,44 @@ public class LaptopPage extends Base{
 		Util.confirmText(MackBookProPrice, str);
 	}
 	
-	//helper methods for this Feature
 	
+	
+	//helper methods for this Feature
 	/**
-	 * method return true if the element with the given string is visible
+	 * Clicks on the Element if it has a header equal to the String passed.
 	 * only works in the laptops and notebooks page
 	 * @param str
 	 * @return
 	 */
 	
-	public boolean checksIfTextInElement(String str) {
+	public void clicksIfTextInElement(String str) {
+		//Finding the header for the Element EX: Macbook Pro.
 		String strFormat = String.format("//div//div//h4//a[text()=\"%s\"]",str);
-		WebElement elem = driver.findElement(By.xpath(strFormat));
-		boolean checkIfDisplayed = elem.isDisplayed();
-		return checkIfDisplayed;
-	}	
+		WebElement elemTitle = driver.findElement(By.xpath(strFormat));
+		//Clicking on the Product compare button of the same ELement(Div).
+		if(elemTitle.isDisplayed()) {
+			//Finding the Product compare Button for the same Element.
+			String strAddToCart = String.format("//div//div//h4//a[text()=\"%s\"]//ancestor::div[@class=\"caption\"]/following-sibling::div//descendant::button[3]", str);
+			WebElement elemAddToCart = driver.findElement(By.xpath(strAddToCart));
+			if(elemAddToCart.isDisplayed()) {
+				elemAddToCart.click();
+			}else throw new NoSuchElementException(strAddToCart);
+		}
+	}
+	
+	/**
+	 * Method to check for a success message in the laptop and notebooks page and validates whether true.
+	 * @param str
+	 */
+	
+	@SuppressWarnings("deprecation")
+	public void successMessage(String expected) {
+		WebElement succMessage = driver.findElement(By.xpath("//div[@class=\"alert alert-success alert-dismissible\"]"));
+		
+		WebDriverWait wait = new WebDriverWait(driver,30);
+		wait.until(ExpectedConditions.visibilityOf(succMessage));
+		String actual = Util.getText(succMessage).substring(0,Util.getText(succMessage).length()-2).trim();
+		Assert.assertEquals(expected,actual);
+		
+	}
 }

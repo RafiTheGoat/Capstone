@@ -2360,3 +2360,671 @@
 2022-07-18 21:42:03,936 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on MacBook Pro item
 2022-07-18 21:42:04,000 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user sees the price tag for MacBook Pro
 2022-07-18 21:42:04,306 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro PASSED
+2022-07-19 19:14:53,082 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User verify currency values change started
+2022-07-19 19:14:59,758 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 19:14:59,879 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on currency drop down
+2022-07-19 19:15:00,383 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User chose Euro from currency drop down
+2022-07-19 19:15:00,433 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Currency changed to Euro
+2022-07-19 19:15:00,602 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User verify currency values change PASSED
+2022-07-19 19:15:00,744 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User empties Shopping cart message displays started
+2022-07-19 19:15:04,349 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 19:15:04,635 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on Shopping cart
+2022-07-19 19:15:04,689 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Success Message was displayed
+2022-07-19 19:15:04,820 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User empties Shopping cart message displays PASSED
+2022-07-19 19:16:39,777 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-19 19:16:45,861 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 19:16:46,046 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-19 19:16:46,390 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-19 19:16:46,755 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-19 19:16:47,269 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-19 19:16:47,322 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - success message checked
+2022-07-19 19:16:47,656 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Register for an affiliate account
+2022-07-19 19:16:48,182 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User fills the affiliate link form
+2022-07-19 19:16:50,690 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks continue button
+2022-07-19 19:16:50,779 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - checked whether update was successful
+2022-07-19 19:16:50,917 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-07-19 19:16:50,977 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-19 19:16:54,486 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 19:16:54,548 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-19 19:16:54,863 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-19 19:16:55,168 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-19 19:16:55,692 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-19 19:16:55,814 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - success message checked
+2022-07-19 19:16:56,175 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Edit your affiliate information
+2022-07-19 19:16:56,255 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Edit affiliate link clicked
+2022-07-19 19:16:58,773 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Affiliate information updated.
+2022-07-19 19:16:59,290 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks continue button
+2022-07-19 19:16:59,365 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - checked whether update was successful
+2022-07-19 19:16:59,500 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-07-19 19:16:59,559 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information started
+2022-07-19 19:17:03,354 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 19:17:03,426 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on my account dropdown
+2022-07-19 19:17:03,709 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicked on login
+2022-07-19 19:17:04,055 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User input email and password
+2022-07-19 19:17:04,479 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on login button
+2022-07-19 19:17:04,529 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - success message checked
+2022-07-19 19:17:05,341 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Edit your account information
+2022-07-19 19:17:05,775 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User updates their account information
+2022-07-19 19:17:06,174 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks continue button
+2022-07-19 19:17:06,258 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - checked whether update was successful
+2022-07-19 19:17:06,408 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Edit your account information PASSED
+2022-07-19 19:17:28,026 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-07-19 19:17:32,950 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 19:17:33,128 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on desktop tab
+2022-07-19 19:17:33,728 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on show all desktops
+2022-07-19 19:17:33,814 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user confirmed all items are present
+2022-07-19 19:17:33,979 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User verify all items are present in Desktops tab PASSED
+2022-07-19 19:17:34,061 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-07-19 19:17:37,633 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 19:17:37,775 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on desktop tab
+2022-07-19 19:17:38,373 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on show all desktops
+2022-07-19 19:17:38,437 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user Added HP LP3065 to cart
+2022-07-19 19:17:41,061 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user selects the quantity
+2022-07-19 19:17:41,208 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on add to cart button
+2022-07-19 19:17:41,422 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-19 19:17:41,600 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-07-19 19:17:41,660 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-19 19:17:45,156 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 19:17:45,296 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on desktop tab
+2022-07-19 19:17:45,882 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on show all desktops
+2022-07-19 19:17:48,114 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked option Add to cart for EOS 5D item
+2022-07-19 19:17:48,363 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user selects the quantity
+2022-07-19 19:17:48,462 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on add to cart button
+2022-07-19 19:17:48,698 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-19 19:17:48,878 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-07-19 19:17:48,917 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-19 19:17:52,405 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 19:17:52,539 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on desktop tab
+2022-07-19 19:17:53,144 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on show all desktops
+2022-07-19 19:17:55,435 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on ite =m EOS 5d item
+2022-07-19 19:17:55,515 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked write a review link
+2022-07-19 19:17:56,084 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user filled review information
+2022-07-19 19:17:56,202 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicked on Continue Button
+2022-07-19 19:17:56,360 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-19 19:17:56,526 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-19 20:31:27,433 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart started
+2022-07-19 20:31:34,643 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 20:31:34,860 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 20:31:35,334 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 20:31:37,625 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on MacBook item
+2022-07-19 20:31:37,713 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on add to cart button
+2022-07-19 20:31:37,937 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-19 20:31:38,004 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees the message displayed from the cart
+2022-07-19 20:31:38,102 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on the cart option
+2022-07-19 20:31:40,208 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on X button to remove item forom Cart
+2022-07-19 20:31:40,236 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees that the item is removed
+2022-07-19 20:31:40,501 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart PASSED
+2022-07-19 20:31:40,540 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison started
+2022-07-19 20:31:44,154 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 20:31:44,289 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 20:31:45,590 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 20:31:45,738 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on mackbook comparison
+2022-07-19 20:31:45,845 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on mackbook comparison
+2022-07-19 20:31:46,074 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison FAILED
+2022-07-19 20:31:46,097 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list started
+2022-07-19 20:31:50,231 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 20:31:50,372 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 20:31:50,924 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 20:31:50,998 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User wishlists SOny Vaio
+2022-07-19 20:31:51,231 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees success message 
+2022-07-19 20:31:51,359 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list PASSED
+2022-07-19 20:31:51,378 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro started
+2022-07-19 20:31:55,072 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 20:31:55,205 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 20:31:55,647 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 20:32:01,613 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on MacBook Pro item
+2022-07-19 20:32:01,655 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user sees the price tag for MacBook Pro
+2022-07-19 20:32:01,855 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro PASSED
+2022-07-19 20:33:36,936 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart started
+2022-07-19 20:33:42,390 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 20:33:42,542 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 20:33:43,051 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 20:33:45,221 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on MacBook item
+2022-07-19 20:33:45,309 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on add to cart button
+2022-07-19 20:33:45,600 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-19 20:33:45,639 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees the message displayed from the cart
+2022-07-19 20:33:45,720 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on the cart option
+2022-07-19 20:33:47,802 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on X button to remove item forom Cart
+2022-07-19 20:33:47,833 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees that the item is removed
+2022-07-19 20:33:48,006 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart PASSED
+2022-07-19 20:33:48,041 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison started
+2022-07-19 20:33:51,696 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 20:33:51,833 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 20:33:52,337 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 20:33:52,500 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on mackbook comparison
+2022-07-19 20:33:52,605 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on mackbook comparison
+2022-07-19 20:33:52,854 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison FAILED
+2022-07-19 20:33:52,870 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list started
+2022-07-19 20:33:56,386 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 20:33:56,521 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 20:33:57,004 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 20:33:57,070 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User wishlists SOny Vaio
+2022-07-19 20:33:57,295 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees success message 
+2022-07-19 20:33:57,415 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list PASSED
+2022-07-19 20:33:57,439 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro started
+2022-07-19 20:34:01,354 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 20:34:01,488 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 20:34:02,292 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 20:34:04,282 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on MacBook Pro item
+2022-07-19 20:34:04,338 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user sees the price tag for MacBook Pro
+2022-07-19 20:34:04,571 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro PASSED
+2022-07-19 20:43:57,264 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart started
+2022-07-19 20:44:02,609 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 20:44:02,789 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 20:44:03,231 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 20:44:05,315 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on MacBook item
+2022-07-19 20:44:05,481 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on add to cart button
+2022-07-19 20:44:05,749 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-19 20:44:05,792 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees the message displayed from the cart
+2022-07-19 20:44:05,888 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on the cart option
+2022-07-19 20:44:07,959 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on X button to remove item forom Cart
+2022-07-19 20:44:07,993 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees that the item is removed
+2022-07-19 20:44:08,192 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart PASSED
+2022-07-19 20:44:08,229 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison started
+2022-07-19 20:44:11,761 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 20:44:11,897 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 20:44:12,362 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 20:44:12,526 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on mackbook comparison
+2022-07-19 20:44:12,635 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on mackbook comparison
+2022-07-19 20:44:12,874 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison FAILED
+2022-07-19 20:44:12,902 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list started
+2022-07-19 20:44:16,401 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 20:44:16,533 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 20:44:16,979 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 20:44:17,061 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User wishlists SOny Vaio
+2022-07-19 20:44:17,332 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list FAILED
+2022-07-19 20:44:17,349 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro started
+2022-07-19 20:44:20,611 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 20:44:20,757 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 20:44:21,196 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 20:44:23,342 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on MacBook Pro item
+2022-07-19 20:44:23,378 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user sees the price tag for MacBook Pro
+2022-07-19 20:44:23,607 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro PASSED
+2022-07-19 20:45:42,774 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart started
+2022-07-19 20:45:47,931 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 20:45:48,104 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 20:45:48,554 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 20:45:50,492 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on MacBook item
+2022-07-19 20:45:50,591 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on add to cart button
+2022-07-19 20:45:50,772 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-19 20:45:50,822 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees the message displayed from the cart
+2022-07-19 20:45:50,905 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on the cart option
+2022-07-19 20:45:52,992 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on X button to remove item forom Cart
+2022-07-19 20:45:53,023 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees that the item is removed
+2022-07-19 20:45:53,179 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart PASSED
+2022-07-19 20:45:53,246 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison started
+2022-07-19 20:45:56,818 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 20:45:56,953 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 20:45:57,489 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 20:45:57,651 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on mackbook comparison
+2022-07-19 20:45:57,759 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on mackbook comparison
+2022-07-19 20:45:58,001 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison FAILED
+2022-07-19 20:45:58,054 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list started
+2022-07-19 20:46:01,336 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 20:46:01,467 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 20:46:01,919 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 20:46:01,999 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User wishlists SOny Vaio
+2022-07-19 20:46:02,168 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list FAILED
+2022-07-19 20:46:02,242 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro started
+2022-07-19 20:46:05,722 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 20:46:05,856 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 20:46:06,341 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 20:46:08,414 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on MacBook Pro item
+2022-07-19 20:46:08,467 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user sees the price tag for MacBook Pro
+2022-07-19 20:46:08,694 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro PASSED
+2022-07-19 20:51:22,515 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart started
+2022-07-19 20:51:27,682 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 20:51:27,849 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 20:51:28,370 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 20:51:30,522 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on MacBook item
+2022-07-19 20:51:30,733 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on add to cart button
+2022-07-19 20:51:30,984 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-19 20:51:31,040 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees the message displayed from the cart
+2022-07-19 20:51:31,146 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on the cart option
+2022-07-19 20:51:33,271 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on X button to remove item forom Cart
+2022-07-19 20:51:33,305 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees that the item is removed
+2022-07-19 20:51:33,520 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart PASSED
+2022-07-19 20:51:33,604 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison started
+2022-07-19 20:51:37,232 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 20:51:37,372 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 20:51:37,895 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 20:51:38,074 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on mackbook comparison
+2022-07-19 20:51:38,193 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on mackbook comparison
+2022-07-19 20:51:38,432 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison FAILED
+2022-07-19 20:51:38,480 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list started
+2022-07-19 20:51:41,884 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 20:51:42,018 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 20:51:42,470 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 20:51:42,558 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User wishlists SOny Vaio
+2022-07-19 20:51:42,769 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees success message 
+2022-07-19 20:51:42,948 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list PASSED
+2022-07-19 20:51:42,982 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro started
+2022-07-19 20:51:46,407 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 20:51:46,543 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 20:51:47,007 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 20:51:48,802 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on MacBook Pro item
+2022-07-19 20:51:48,885 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user sees the price tag for MacBook Pro
+2022-07-19 20:51:49,096 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro PASSED
+2022-07-19 20:58:52,006 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart started
+2022-07-19 20:58:57,457 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 20:58:57,630 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 20:58:58,113 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 20:59:00,251 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on MacBook item
+2022-07-19 20:59:00,406 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on add to cart button
+2022-07-19 20:59:00,681 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-19 20:59:00,717 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees the message displayed from the cart
+2022-07-19 20:59:00,788 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on the cart option
+2022-07-19 20:59:02,929 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on X button to remove item forom Cart
+2022-07-19 20:59:02,961 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees that the item is removed
+2022-07-19 20:59:03,174 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart PASSED
+2022-07-19 20:59:03,207 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison started
+2022-07-19 20:59:06,854 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 20:59:06,991 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 20:59:07,444 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 20:59:07,616 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on mackbook comparison
+2022-07-19 20:59:07,727 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on mackbook comparison
+2022-07-19 20:59:07,991 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison FAILED
+2022-07-19 20:59:08,033 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list started
+2022-07-19 20:59:11,445 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 20:59:11,580 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 20:59:12,245 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 20:59:12,317 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User wishlists SOny Vaio
+2022-07-19 20:59:12,528 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees success message 
+2022-07-19 20:59:12,691 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list PASSED
+2022-07-19 20:59:12,733 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro started
+2022-07-19 20:59:17,221 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 20:59:17,389 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 20:59:17,935 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 20:59:20,248 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on MacBook Pro item
+2022-07-19 20:59:20,340 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user sees the price tag for MacBook Pro
+2022-07-19 20:59:20,669 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro PASSED
+2022-07-19 21:11:17,506 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart started
+2022-07-19 21:11:22,712 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:11:22,870 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:11:23,390 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:11:23,589 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart UNDEFINED
+2022-07-19 21:11:23,668 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison started
+2022-07-19 21:11:27,379 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:11:27,516 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:11:27,978 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:11:30,153 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clciked on MacBook
+2022-07-19 21:11:32,255 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clciked on MacBook Air
+2022-07-19 21:11:32,500 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison FAILED
+2022-07-19 21:11:32,554 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list started
+2022-07-19 21:11:36,130 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:11:36,281 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:11:36,757 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:11:36,860 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User wishlists SOny Vaio
+2022-07-19 21:11:37,070 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees success message 
+2022-07-19 21:11:37,221 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list PASSED
+2022-07-19 21:11:37,264 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro started
+2022-07-19 21:11:40,631 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:11:40,768 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:11:41,233 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:11:41,353 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro UNDEFINED
+2022-07-19 21:12:40,351 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart started
+2022-07-19 21:12:44,785 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:12:44,956 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:12:45,485 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:12:47,763 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on MacBook item
+2022-07-19 21:12:47,872 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on add to cart button
+2022-07-19 21:12:48,086 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-19 21:12:48,123 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees the message displayed from the cart
+2022-07-19 21:12:48,183 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on the cart option
+2022-07-19 21:12:50,320 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on X button to remove item forom Cart
+2022-07-19 21:12:50,358 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees that the item is removed
+2022-07-19 21:12:50,577 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart PASSED
+2022-07-19 21:12:50,620 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison started
+2022-07-19 21:12:54,330 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:12:54,468 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:12:54,910 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:12:57,075 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clciked on MacBook
+2022-07-19 21:12:59,223 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clciked on MacBook Air
+2022-07-19 21:12:59,450 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison FAILED
+2022-07-19 21:12:59,501 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list started
+2022-07-19 21:13:03,122 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:13:03,297 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:13:03,808 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:13:03,897 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User wishlists SOny Vaio
+2022-07-19 21:13:04,307 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees success message 
+2022-07-19 21:13:04,415 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list PASSED
+2022-07-19 21:13:04,502 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro started
+2022-07-19 21:13:08,002 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:13:08,160 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:13:08,628 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:13:08,725 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro UNDEFINED
+2022-07-19 21:14:10,694 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart started
+2022-07-19 21:14:15,253 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:14:15,413 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:14:15,905 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:14:17,864 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on MacBook item
+2022-07-19 21:14:17,997 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on add to cart button
+2022-07-19 21:14:18,402 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart FAILED
+2022-07-19 21:14:18,468 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison started
+2022-07-19 21:14:21,920 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:14:22,063 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:14:22,509 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:14:24,714 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clciked on MacBook
+2022-07-19 21:14:26,847 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clciked on MacBook Air
+2022-07-19 21:14:27,043 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison FAILED
+2022-07-19 21:14:27,097 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list started
+2022-07-19 21:14:30,784 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:14:30,995 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:14:31,486 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:14:31,584 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User wishlists SOny Vaio
+2022-07-19 21:14:31,789 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees success message 
+2022-07-19 21:14:31,888 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list PASSED
+2022-07-19 21:14:31,965 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro started
+2022-07-19 21:14:35,402 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:14:35,537 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:14:36,058 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:14:36,226 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro UNDEFINED
+2022-07-19 21:15:31,535 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart started
+2022-07-19 21:15:36,289 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:15:36,439 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:15:36,888 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:15:38,908 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on MacBook item
+2022-07-19 21:15:38,988 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on add to cart button
+2022-07-19 21:15:39,181 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-19 21:15:39,256 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees the message displayed from the cart
+2022-07-19 21:15:39,317 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on the cart option
+2022-07-19 21:15:41,433 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on X button to remove item forom Cart
+2022-07-19 21:15:41,495 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees that the item is removed
+2022-07-19 21:15:41,688 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart PASSED
+2022-07-19 21:15:41,730 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison started
+2022-07-19 21:15:45,176 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:15:45,314 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:15:45,773 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:15:47,928 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clciked on MacBook
+2022-07-19 21:15:50,056 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clciked on MacBook Air
+2022-07-19 21:15:50,112 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-19 21:15:50,461 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Users clicks on comparison link
+2022-07-19 21:15:50,504 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees the comparison chart
+2022-07-19 21:15:50,641 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison PASSED
+2022-07-19 21:15:50,686 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list started
+2022-07-19 21:15:53,974 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:15:54,128 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:15:54,580 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:15:54,660 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User wishlists SOny Vaio
+2022-07-19 21:15:54,861 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees success message 
+2022-07-19 21:15:54,993 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list PASSED
+2022-07-19 21:15:55,092 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro started
+2022-07-19 21:15:59,417 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:15:59,560 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:16:00,040 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:16:00,174 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro UNDEFINED
+2022-07-19 21:16:41,953 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart started
+2022-07-19 21:16:46,560 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:16:46,726 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:16:47,240 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:16:49,521 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on MacBook item
+2022-07-19 21:16:49,653 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on add to cart button
+2022-07-19 21:16:49,883 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-19 21:16:49,918 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees the message displayed from the cart
+2022-07-19 21:16:49,986 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on the cart option
+2022-07-19 21:16:52,080 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on X button to remove item forom Cart
+2022-07-19 21:16:52,121 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees that the item is removed
+2022-07-19 21:16:52,359 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart PASSED
+2022-07-19 21:16:52,403 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison started
+2022-07-19 21:16:56,048 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:16:56,184 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:16:56,669 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:16:58,865 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clciked on MacBook
+2022-07-19 21:17:01,006 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clciked on MacBook Air
+2022-07-19 21:17:01,062 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-19 21:17:01,417 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Users clicks on comparison link
+2022-07-19 21:17:01,466 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees the comparison chart
+2022-07-19 21:17:01,637 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison PASSED
+2022-07-19 21:17:01,668 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list started
+2022-07-19 21:17:06,323 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:17:06,456 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:17:06,923 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:17:07,005 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User wishlists SOny Vaio
+2022-07-19 21:17:07,213 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees success message 
+2022-07-19 21:17:07,410 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list PASSED
+2022-07-19 21:17:07,442 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro started
+2022-07-19 21:17:10,921 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:17:11,055 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:17:11,513 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:17:13,846 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on MacBook Pro item
+2022-07-19 21:17:13,897 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user sees the price tag for MacBook Pro
+2022-07-19 21:17:14,180 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro PASSED
+2022-07-19 21:27:15,140 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart started
+2022-07-19 21:27:19,918 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:27:20,083 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:27:20,683 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:27:22,868 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on MacBook item
+2022-07-19 21:27:22,955 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on add to cart button
+2022-07-19 21:27:23,163 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-19 21:27:23,232 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees the message displayed from the cart
+2022-07-19 21:27:23,303 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on the cart option
+2022-07-19 21:27:25,404 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on X button to remove item forom Cart
+2022-07-19 21:27:25,452 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees that the item is removed
+2022-07-19 21:27:25,672 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart PASSED
+2022-07-19 21:27:25,724 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison started
+2022-07-19 21:27:29,340 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:27:29,483 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:27:29,921 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:27:32,117 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clciked on MacBook
+2022-07-19 21:28:02,319 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison FAILED
+2022-07-19 21:28:02,372 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list started
+2022-07-19 21:28:06,073 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:28:06,538 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:28:06,994 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:28:07,069 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User wishlists SOny Vaio
+2022-07-19 21:28:07,264 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees success message 
+2022-07-19 21:28:07,362 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list PASSED
+2022-07-19 21:28:07,404 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro started
+2022-07-19 21:28:10,970 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:28:11,168 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:28:11,624 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:28:13,838 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on MacBook Pro item
+2022-07-19 21:28:13,887 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user sees the price tag for MacBook Pro
+2022-07-19 21:28:14,114 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro PASSED
+2022-07-19 21:33:01,852 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart started
+2022-07-19 21:33:06,464 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:33:06,633 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:33:07,156 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:33:09,498 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on MacBook item
+2022-07-19 21:33:09,604 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on add to cart button
+2022-07-19 21:33:09,881 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-19 21:33:09,921 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees the message displayed from the cart
+2022-07-19 21:33:10,013 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on the cart option
+2022-07-19 21:33:12,109 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on X button to remove item forom Cart
+2022-07-19 21:33:12,148 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees that the item is removed
+2022-07-19 21:33:12,347 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart PASSED
+2022-07-19 21:33:12,391 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison started
+2022-07-19 21:33:15,956 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:33:16,106 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:33:16,560 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:33:20,406 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clciked on MacBook
+2022-07-19 21:33:50,691 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison FAILED
+2022-07-19 21:33:50,735 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list started
+2022-07-19 21:33:54,375 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:33:54,616 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:33:55,082 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:33:55,161 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User wishlists SOny Vaio
+2022-07-19 21:33:55,360 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees success message 
+2022-07-19 21:33:55,524 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list PASSED
+2022-07-19 21:33:55,573 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro started
+2022-07-19 21:33:59,148 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:33:59,286 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:33:59,738 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:34:02,060 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on MacBook Pro item
+2022-07-19 21:34:02,097 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user sees the price tag for MacBook Pro
+2022-07-19 21:34:02,413 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro PASSED
+2022-07-19 21:34:50,778 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart started
+2022-07-19 21:34:55,429 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:34:55,599 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:34:56,118 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:34:58,187 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on MacBook item
+2022-07-19 21:34:58,305 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on add to cart button
+2022-07-19 21:34:58,503 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-19 21:34:58,534 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees the message displayed from the cart
+2022-07-19 21:34:58,637 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on the cart option
+2022-07-19 21:35:00,778 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on X button to remove item forom Cart
+2022-07-19 21:35:00,810 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees that the item is removed
+2022-07-19 21:35:00,975 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart PASSED
+2022-07-19 21:35:01,044 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison started
+2022-07-19 21:35:04,641 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:35:04,810 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:35:05,277 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:35:07,473 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clciked on MacBook
+2022-07-19 21:35:09,647 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clciked on MacBook Air
+2022-07-19 21:35:09,757 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-19 21:35:10,175 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Users clicks on comparison link
+2022-07-19 21:35:10,239 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees the comparison chart
+2022-07-19 21:35:10,396 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison PASSED
+2022-07-19 21:35:10,496 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list started
+2022-07-19 21:35:13,789 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:35:14,068 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:35:14,540 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:35:14,656 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User wishlists SOny Vaio
+2022-07-19 21:35:14,876 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees success message 
+2022-07-19 21:35:14,980 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list PASSED
+2022-07-19 21:35:15,021 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro started
+2022-07-19 21:35:18,323 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:35:18,467 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:35:18,922 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:35:20,683 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on MacBook Pro item
+2022-07-19 21:35:20,725 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user sees the price tag for MacBook Pro
+2022-07-19 21:35:20,995 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro PASSED
+2022-07-19 21:35:37,133 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart started
+2022-07-19 21:35:41,329 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:35:41,480 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:35:41,935 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:35:44,036 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on MacBook item
+2022-07-19 21:35:44,229 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on add to cart button
+2022-07-19 21:35:44,607 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-19 21:35:44,654 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees the message displayed from the cart
+2022-07-19 21:35:44,804 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on the cart option
+2022-07-19 21:35:44,879 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on X button to remove item forom Cart
+2022-07-19 21:35:45,219 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart FAILED
+2022-07-19 21:35:45,264 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison started
+2022-07-19 21:35:48,808 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:35:48,953 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:35:49,438 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:35:51,631 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clciked on MacBook
+2022-07-19 21:35:53,757 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clciked on MacBook Air
+2022-07-19 21:35:53,817 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-19 21:35:54,229 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Users clicks on comparison link
+2022-07-19 21:35:54,270 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees the comparison chart
+2022-07-19 21:35:54,423 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison PASSED
+2022-07-19 21:35:54,458 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list started
+2022-07-19 21:35:57,840 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:35:57,972 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:35:58,420 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:35:58,509 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User wishlists SOny Vaio
+2022-07-19 21:35:58,711 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees success message 
+2022-07-19 21:35:58,836 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list PASSED
+2022-07-19 21:35:58,913 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro started
+2022-07-19 21:36:02,279 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:36:02,420 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:36:02,854 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:36:04,945 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on MacBook Pro item
+2022-07-19 21:36:05,030 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user sees the price tag for MacBook Pro
+2022-07-19 21:36:05,225 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro PASSED
+2022-07-19 21:37:47,948 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart started
+2022-07-19 21:37:52,707 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:37:52,859 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:37:53,340 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:37:55,363 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on MacBook item
+2022-07-19 21:37:55,501 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on add to cart button
+2022-07-19 21:37:55,685 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-19 21:37:55,714 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees the message displayed from the cart
+2022-07-19 21:37:55,848 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on the cart option
+2022-07-19 21:37:56,019 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on X button to remove item forom Cart
+2022-07-19 21:37:56,389 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart FAILED
+2022-07-19 21:37:56,457 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison started
+2022-07-19 21:37:59,903 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:38:00,050 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:38:00,547 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:38:02,695 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clciked on MacBook
+2022-07-19 21:38:04,836 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clciked on MacBook Air
+2022-07-19 21:38:04,888 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-19 21:38:05,252 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Users clicks on comparison link
+2022-07-19 21:38:05,302 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees the comparison chart
+2022-07-19 21:38:05,477 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison PASSED
+2022-07-19 21:38:05,507 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list started
+2022-07-19 21:38:08,878 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:38:09,074 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:38:39,378 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list FAILED
+2022-07-19 21:38:39,405 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro started
+2022-07-19 21:38:43,003 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:38:43,136 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:38:43,607 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:38:45,476 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on MacBook Pro item
+2022-07-19 21:38:45,521 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user sees the price tag for MacBook Pro
+2022-07-19 21:38:45,719 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro PASSED
+2022-07-19 21:39:55,776 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart started
+2022-07-19 21:40:00,315 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:40:00,655 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:40:01,155 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:40:03,480 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on MacBook item
+2022-07-19 21:40:03,697 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on add to cart button
+2022-07-19 21:40:03,930 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-19 21:40:03,970 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees the message displayed from the cart
+2022-07-19 21:40:04,086 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on the cart option
+2022-07-19 21:40:06,252 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on X button to remove item forom Cart
+2022-07-19 21:40:06,294 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees that the item is removed
+2022-07-19 21:40:06,486 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart PASSED
+2022-07-19 21:40:06,528 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison started
+2022-07-19 21:40:10,265 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:40:10,410 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:40:10,865 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:40:13,010 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clciked on MacBook
+2022-07-19 21:40:15,187 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clciked on MacBook Air
+2022-07-19 21:40:15,240 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-19 21:40:15,576 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Users clicks on comparison link
+2022-07-19 21:40:15,615 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees the comparison chart
+2022-07-19 21:40:15,746 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison PASSED
+2022-07-19 21:40:15,791 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list started
+2022-07-19 21:40:19,032 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:40:19,173 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:40:19,636 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:40:19,713 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User wishlists SOny Vaio
+2022-07-19 21:40:19,915 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees success message 
+2022-07-19 21:40:20,045 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list PASSED
+2022-07-19 21:40:20,092 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro started
+2022-07-19 21:40:23,464 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-19 21:40:23,598 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-19 21:40:24,062 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-19 21:40:26,022 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on MacBook Pro item
+2022-07-19 21:40:26,080 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user sees the price tag for MacBook Pro
+2022-07-19 21:40:26,343 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro PASSED
+2022-07-20 23:14:52,921 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart started
+2022-07-20 23:15:00,454 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-20 23:15:00,684 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-20 23:15:01,132 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-20 23:15:02,916 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on MacBook item
+2022-07-20 23:15:03,062 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on add to cart button
+2022-07-20 23:15:03,379 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-20 23:15:03,421 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees the message displayed from the cart
+2022-07-20 23:15:03,503 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on the cart option
+2022-07-20 23:15:05,741 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on X button to remove item forom Cart
+2022-07-20 23:15:05,772 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees that the item is removed
+2022-07-20 23:15:05,971 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Add and Remove a Macbook from the cart PASSED
+2022-07-20 23:15:06,034 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison started
+2022-07-20 23:15:12,106 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-20 23:15:12,263 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-20 23:15:12,770 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-20 23:15:14,948 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clciked on MacBook
+2022-07-20 23:15:17,076 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clciked on MacBook Air
+2022-07-20 23:15:17,134 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user saw a confirmation message
+2022-07-20 23:15:17,474 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Users clicks on comparison link
+2022-07-20 23:15:17,520 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees the comparison chart
+2022-07-20 23:15:17,659 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Product comparison PASSED
+2022-07-20 23:15:17,702 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list started
+2022-07-20 23:15:21,419 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-20 23:15:21,554 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-20 23:15:21,990 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-20 23:15:22,077 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User wishlists SOny Vaio
+2022-07-20 23:15:22,269 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User sees success message 
+2022-07-20 23:15:22,395 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Adding an item to wish list PASSED
+2022-07-20 23:15:22,431 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro started
+2022-07-20 23:15:26,058 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User is on the main page
+2022-07-20 23:15:26,198 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks laptops and notebooksc drop down
+2022-07-20 23:15:26,668 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user clicks on show all laptops and notebooks
+2022-07-20 23:15:28,051 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - User clicks on MacBook Pro item
+2022-07-20 23:15:28,108 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - user sees the price tag for MacBook Pro
+2022-07-20 23:15:28,339 [main] INFO /Users/owner/git/repository/us.tigers.capstone/src/test/resources/input/log4j.properties - Scenario Validate price of Macbook Pro PASSED
